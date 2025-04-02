@@ -54,15 +54,23 @@ def extract_ui_elements(image_file_path, prompt):
     #image = Image.open(image_file_path).convert("RGB")
     image_tensor = image_processor(image).unsqueeze(0)  # Add batch dimension
 
+    #reshape vision_x
+    vision_x = image_tensor.unsqueeze(1).unsqueeze(2)
+
     # Tokenize prompt
     input_text = f"Identify UI elements in this image. {prompt}"
-    input_ids = tokenizer(input_text, return_tensors="pt").input_ids
+    tokenizer.padding_side = "left"
+    lang_x = tokenizer(
+        [f"<image>{input_text}<|endofchunk|>"],  
+        return_tensors="pt",
+    )
 
     # Generate response
     with torch.no_grad():
         output = model.generate(
-            vision_x=[image_tensor],  # List of image tensors
-            lang_x=[[tokenizer.bos_token_id] + input_ids.squeeze(0).tolist()],  # Tokenized input with BOS token
+            vision_x=vision_x,  # Now properly shaped
+            lang_x=lang_x["input_ids"],
+            attention_mask=lang_x["attention_mask"],
             max_length=50
         )
 
