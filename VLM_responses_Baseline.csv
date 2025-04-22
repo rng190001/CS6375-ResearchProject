@@ -19,9 +19,6 @@ Please note that the actual number of steps might be different depending on the 
    ""buttons"":[
       ""Save""
    ],
-   ""input"":[
-      ""text""
-   ],
    ""field"":[
       ""text""
    ]
@@ -107,7 +104,7 @@ Please note that these steps are based on the visible elements in the image and 
       ""+"",
       ""Note""
    ],
-   ""input"":[
+   ""field"":[
       ""text""
    ]
 }",TRUE,
@@ -170,7 +167,7 @@ Note: The image does not provide enough information to determine the exact numbe
       ""Home"",
       ""Search""
    ],
-   ""input"":[
+   ""field"":[
       ""text""
    ]
 }",TRUE,
@@ -363,12 +360,9 @@ I want to login with my current credentials.,"To complete the task of logging in
       ""Enter your SplashTop Account"",
       ""Log in""
    ],
-   ""input"":[
-      ""email"",
-      ""password""
-   ],
    ""field"":[
-      ""password""
+      ""password"",
+      ""email""
    ]
 }",TRUE,
 I want to see the recipe for potato wedges.,"To complete the task of seeing the recipe for potato wedges, the user would need to follow these steps:
@@ -551,7 +545,7 @@ I want to add bananas to my shopping list.,"Based on the image, to add bananas t
       ""search"",
       ""Add ingredients to shopping list and buy them when you are in grocery store.""
    ],
-   ""input"":[
+   ""field"":[
       ""text""
    ]
 }",TRUE,
@@ -811,10 +805,6 @@ Please note that these steps are based on the visible UI elements in the image a
       ""Reply"",
       ""Send""
    ]
-   ""input"":[
-      ""text"",
-      ""message""
-   ],
    ""field"":[
       ""text""
    ]
