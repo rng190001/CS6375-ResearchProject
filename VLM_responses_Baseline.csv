@@ -15,12 +15,15 @@ I want to change the contact name to Jane Do.,"To change the contact name to Jan
 3. Tap on the 'Save' button to confirm the changes.
 
 Please note that the actual number of steps might be different depending on the app's design and functionality.","{
-   "task":"change contact name to Jane Do",
-   "buttons":[
-      "Save"
+   ""task"":""change contact name to Jane Do"",
+   ""buttons"":[
+      ""Save""
    ],
-   "field":[
-      "text"
+   ""input"":[
+      ""text""
+   ],
+   ""field"":[
+      ""text""
    ]
 }",TRUE,
 I want to add a red bag to my bag.,"Based on the image, the user would need to follow these steps to add a red bag to their bag:
@@ -98,14 +101,14 @@ I want to make a note about my mood.,"Based on the image, the user should follow
 4. Tap on the text field to enter the note.
 
 Please note that these steps are based on the visible elements in the image and may not cover all possible interactions with the app.","{
-   "task":"note about my mood",
-   "buttons":[
-      "Mood",
-      "+",
-      "Note"
+   ""task"":""note about my mood"",
+   ""buttons"":[
+      ""Mood"",
+      ""+"",
+      ""Note""
    ],
-   "field":[
-      "text"
+   ""input"":[
+      ""text""
    ]
 }",TRUE,
 I want to switch tabs.,"Based on the image provided, the user needs to switch tabs within the Facebook application. The following steps can be taken to complete this task:
@@ -160,15 +163,15 @@ I want to search for Medical Tales Retold.,"To search for ""Medical Tales Retold
 5. Type ""Medical Tales Retold"" into the search bar and tap the ""Search"" button.
 
 Note: The image does not provide enough information to determine the exact number of taps required to complete the task.","{
-   "task":"search for Medical Tales Retold",
-   "buttons":[
-      "Comics",
-      "See all",
-      "Home",
-      "Search"
+   ""task"":""search for Medical Tales Retold"",
+   ""buttons"":[
+      ""Comics"",
+      ""See all"",
+      ""Home"",
+      ""Search""
    ],
-   "field":[
-      "text"
+   ""input"":[
+      ""text""
    ]
 }",TRUE,
 I want to exit out of the signup menu.,"Based on the image, to exit out of the signup menu, the user should follow these steps:
@@ -248,10 +251,11 @@ I want to add a new VPN.,"Based on the image, to add a new VPN, the user should 
 3. Tap on the ""+"" icon located at the top right corner of the screen.
 
 This sequence of taps should lead the user to the ""Add"" button, where they can proceed with adding a new VPN.","{
-   "task":"add a new VPN",
-   "buttons":[
-      "+",
-      "Profile",
+   ""task"":""add a new VPN"",
+   ""buttons"":[
+      ""+"",
+      ""Profile"",
+      ""+""
    ]
 }",TRUE,
 I want to go back to the previous page.,"Based on the image, the user should tap on the 'Back' icon located in the top left corner of the screen to return to the previous page. This is the shortest sequence of taps required to complete the task.","{
@@ -354,14 +358,17 @@ I want to login with my current credentials.,"To complete the task of logging in
 3. Tap on the ""Password"" field to enter the password.
 4. Type in the password associated with the SplashTop account.
 5. Tap on the ""Log in"" button to log in with the entered credentials.","{
-   "task":"login with my current credentials",
-   "buttons":[
-      "Enter your SplashTop Account",
-      "Log in"
+   ""task"":""login with my current credentials"",
+   ""buttons"":[
+      ""Enter your SplashTop Account"",
+      ""Log in""
    ],
-   "field":[
-      "email",
-      "password"
+   ""input"":[
+      ""email"",
+      ""password""
+   ],
+   ""field"":[
+      ""password""
    ]
 }",TRUE,
 I want to see the recipe for potato wedges.,"To complete the task of seeing the recipe for potato wedges, the user would need to follow these steps:
@@ -798,14 +805,18 @@ I want to forward the hazard overview to my friend.,"Based on the image provided
 5. Tap on the ""Send"" button to send the message.
 
 Please note that these steps are based on the visible UI elements in the image and may not cover all possible interactions with the app.","{
-   "task":"reply to chat message",
-   "buttons":[
-      "chat bubble",
-      "Reply",
-      "Send"
+   ""task"":""reply to chat message"",
+   ""buttons"":[
+      ""chat bubble"",
+      ""Reply"",
+      ""Send""
+   ]
+   ""input"":[
+      ""text"",
+      ""message""
    ],
-   "field":[
-      "text"
+   ""field"":[
+      ""text""
    ]
 }",TRUE,
 "I want to play the song ""The world is yours"".","Based on the image, the following steps can be taken to play the song ""The world is yours"":
