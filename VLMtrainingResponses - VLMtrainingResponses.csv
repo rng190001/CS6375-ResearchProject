@@ -1,0 +1,1364 @@
+Index,UserPrompt,AssistantResponse,JSONResponse
+0,click on the image beside the option traffic,"To complete the task of clicking on the image beside the option traffic, the user should follow these steps:
+1. Tap on the ""Traffic"" option to navigate to the corresponding section.
+2. Tap on the image beside the ""Traffic"" option to interact with it.","{
+    ""task"": ""clicking on the image beside the option traffic"",
+    ""buttons"": [
+      ""Traffic""
+    ]
+}"
+1,click on down arrow beside the entertainment,"To complete the task of clicking on the down arrow beside the entertainment, the user should perform the following steps:
+
+1. Tap on the 'Entertainment' button.
+2. Tap on the down arrow located next to the 'Entertainment' button.","{
+    ""task"": ""clicking on the down arrow beside the entertainment"",
+    ""buttons"": [
+      ""Entertainment""
+    ]
+}"
+2,select the down arrow button beside lifestyle,"Based on the image provided, here is the shortest sequence of taps required to complete the task:
+
+1. Tap on the ""Lifestyle"" button to expand the menu.
+2. Tap on the down arrow button beside ""Lifestyle"" to select the option below.","{
+    ""task"": ""select the down arrow button besides lifestyle"",
+    ""buttons"": [
+      ""Lifestyle""
+    ]
+}"
+3,select the setting icon from top right corner,"To select the setting icon from the top right corner of the mobile app, follow these steps:
+1. Tap the screen to bring up the top bar of the app.
+2. Tap the three-dot menu icon (located in the top right corner of the screen) to open the menu.
+3. Tap the ""Settings"" option from the menu.
+4. Tap the ""Station"" tab within the settings menu.
+5. The setting icon is now selected.","{
+    ""task"": ""select the setting icon from the top right corner of the mobile app"",
+    ""buttons"": [
+      ""Settings"",
+      ""Station""
+    ]
+}"
+4,click on green color button,"To click on the green color button, follow these steps:
+1. Tap on the ""Call Now"" button located at the bottom of the screen.
+2. Tap on the ""10 Sec"" button, which is also green in color.","{
+    ""task"": ""click on the green color button"",
+    ""buttons"": [
+      ""Green Color Button"",
+      ""Call Now"",
+      ""10 Sec""
+    ]
+}"
+5,enter the text field next to the name,"To enter text in the text field next to the name ""Barack Obama,"" follow these steps:
+
+1. Tap the ""America"" button to select the country.
+2. Tap the ""Call Now"" button to initiate a call.
+3. While the call is in progress, tap the ""More"" button to access additional options.
+4. Tap the ""Download More Great Apps"" button to access the app store.
+5. From the app store, tap the search icon to search for a specific app.
+6. Enter the text field next to the name ""Barack Obama"" to search for the desired app.
+
+Please note that this sequence of steps is based on the information provided in the image and may not be the most efficient way to achieve the desired result.","{
+    ""task"": ""enter text in the text field next to the name ""Barack Obama"",
+    ""buttons"": [
+      ""America"",
+      ""Call Now"",
+      ""More"",
+      ""Download More Great Apps"",
+    ],
+    ""field"":[
+      ""text""
+    ]
+}"
+6,click on text which is beside call now,"The user wants to tap on the text ""America"" which is located below the name ""Barack Obama"" in the image. Here's the shortest sequence of taps required to complete this task:
+1. Tap on the ""America"" text below the name ""Barack Obama"".
+2. The user will be navigated to a new screen or feature within the app.","{
+    ""task"": ""click on text besides call now"",
+    ""buttons"": [
+      ""America"",
+    ]
+ }"
+7,click on more button,"The user wants to tap on the ""More"" button, which is located in the top right corner of the screen. To do this, the user should tap on the ""More"" button. Here is the shortest sequence of taps required to complete this task:
+
+1. Tap on the ""More"" button.","{
+    ""task"": ""tap on the ""More"" button"",
+    ""buttons"": [
+      ""More""
+    ]
+  },"
+8,share,"Based on the image, to share the product displayed, the user should follow these steps:
+
+1. Tap on the ""Share"" icon located in the top right corner of the screenshot.
+","{
+    ""task"": ""share the product displayed"",
+    ""buttons"": [
+      ""Share""
+    ]
+},"
+9,select the option next to size,"Based on the current screenshot, here is the shortest sequence of taps required to complete the task:
+
+1. Tap on the ""Add to bag"" button.
+2. Tap on the ""Size"" option next to the bag's size.
+3. Tap on the ""1"" option next to the bag's size.
+
+Please note that these steps are based on the visible elements in the image, and additional steps may be required depending on the user's specific needs or preferences.","{
+    ""task"": ""select option next to side"",
+    ""buttons"": [
+      ""Size"",
+      ""1"",
+      ""Add To Bag""
+    ]
+}"
+10,click on see plans,"To complete the task of 'clicking on see plans', the user should follow these steps:
+
+1. Tap on the 'See Plans' button located at the bottom of the screen.","{
+    ""task"": ""'clicking on see plans'"",
+    ""buttons"": [
+      ""See Plans""
+    ]
+},"
+11,select the icon which is left to the text add up to 12 languages,"To help the user navigate through the app and reach the icon labeled ""Add up to 12 languages"", I will provide a shortest sequence of taps required to complete this task.
+
+
+1. Tap on the ""Add up to 12 languages"" icon.
+","{
+    ""task"": ""help the user navigate through the app and reach the icon labeled ""Add up to 12 languages"""",
+    ""buttons"": [
+      ""Add Up To 12 Languages"",
+    ]
+},"
+12,click the symbol which is left hand side of the text offical mcfrawhill certificates,"Based on the image provided, the user needs to click on the symbol which is on the left-hand side of the text ""Official MCGraw-Hill certificates"". To complete this task, the user should perform the following steps:
+
+1. Tap on the ""See PLANS"" button located at the bottom of the screen.
+2. Tap on the ""Official MCGraw-Hill certificates"" text.
+3. Tap on the left-hand side of the text to access the symbol.
+
+Please note that this sequence assumes the user can tap on the text to access the symbol. If the symbol is not accessible through the text, additional steps may be required.","{
+    ""task"": ""click on the symbol which is on the left-hand side of the text \""Official MCGraw-Hill certificates\"".
+    ""buttons"": [
+      ""See Plans"",
+      ""Official Mcgraw-Hill Certificates"",
+      ""Text To Access The Symbol""
+    ]
+},"
+13,click on the mike,"Based on the image provided, the user wants to click on the microphone icon. To achieve this, follow these steps:
+
+1. Tap on the 'Common Errors' button at the bottom of the screen.
+2. Tap on the 'Writing Basics 101' button.
+3. Tap on the 'Start Now' button.
+4. Tap on the microphone icon at the bottom of the screen.
+
+Please note that these steps are based on the visible elements in the image and may not be the most efficient or direct way to achieve the user's goal.","{
+    ""task"": ""click on the microphone icon."",
+    ""buttons"": [
+      ""Common Errors"",
+      ""Writing Basics 101"",
+      ""Start Now"",
+      ""Microphone""
+    ]
+ },"
+14,click on page indicator icon,"To click on the page indicator icon, the user should follow these steps:
+1. Tap on the 'Sign Up' button at the top of the screen.
+2. Tap on the 'What is your goal?' section.
+3. Tap on the 'Lose 1 pound per week' checkbox.
+4. Tap on the 'Lose 2 pounds per week' checkbox.
+5. Tap on the 'Maintain current weight' checkbox.
+6. Tap on the 'How active are you (outside of exercise?) section.
+7. Tap on the 'Sedentary' checkbox.
+8. Tap on the 'Lightly Active' checkbox.
+9. Tap on the 'I stand a lot of the day' checkbox.
+10. Tap on the 'Nurse, teacher' radio button.
+11. Tap on the","{
+    ""task"": ""click on the page indicator icon"",
+    ""buttons"": [
+      ""What Is Your Goal?"",
+      ""Lightly Active"",
+      ""Sign Up"",
+      ""I Stand A Lot Of The Day"",
+      ""Nurse, Teacher"",
+      ""Lose 2 Pounds Per Week"",
+      ""Maintain Current Weight"",
+      ""Sedentary"",
+      ""Lose 1 Pound Per Week"",
+      ""Page Indicator Icon""
+    ]
+},"
+15,select the icon which is right to the text lose 1 pound per week,"Based on the screenshot, the user should follow these steps to select the icon next to ""Lose 1 pound per week"":
+
+1. Tap on the ""Sign Up"" button at the top of the screen.
+2. Tap on the ""What is your goal?"" question.
+3. Tap on the ""Lose 1 pound per week"" option.
+4. Tap on the icon next to the ""Lose 1 pound per week"" option.
+
+Please note that the actual number of taps required may vary depending on the user's specific device and the size of the UI elements.","{
+    ""task"": ""select icon next to ""Lose 1 pound per week"""",
+    ""buttons"": [
+      ""Sign Up"",
+      ""What Is Your Goal?"",
+      ""Lose 1 Pound Per Week""
+    ]
+},"
+16,select the symbol which is immediate to the right of the sedentary,"Based on the image, the user needs to perform the following steps to complete the task:
+
+1. Tap on the ""Sign Up"" button at the top of the screen.
+2. Tap on the ""Maintenance current weight"" checkbox.
+3. Tap on the ""Lightly Active"" checkbox.
+4. Tap on the ""Active"" checkbox.
+5. Tap on the ""Nurse, teacher"" checkbox.
+
+Please note that this sequence is based on the image provided and assumes that the user is able to tap on checkboxes and buttons.","{
+    ""task"": ""select symbol to the right of sedentary"",
+    ""buttons"": [
+      ""Sign Up"",
+      ""Maintenance Current Weight"",
+      ""Lightly Active"",
+      ""Active"",
+      ""Nurse, Teacher""
+    ]
+  },"
+17,tap on the text options at the top right corner,"Based on the image, here are the steps the user should follow to tap on the text options at the top right corner:
+1. Tap on the ""Options"" button located at the top right corner of the screen.","{
+    ""task"": ""tap on the text options"",
+    ""buttons"": [
+      ""Options""
+    ]
+  },"
+18,click on main along with the text below it shown at the top left corner,"To complete the task of clicking on ""Main"" along with the text below it, shown at the top left corner of the screenshot, the user should follow these steps:
+
+1. Tap on the ""Main"" button located at the top left corner of the screenshot.
+2. The user should now be on the ""Main"" screen.","{
+    ""task"": ""clicking on \""Main\"" along with the text below it"",
+    ""buttons"": [
+      ""Main""
+    ]
+ },"
+19,click on the button below save location,"Based on the image provided, to click on the button below the 'Save Location' option, the user should follow these steps:
+
+1. Tap on the 'Save Location' button, which is located below the 'Find My Car' button.","{
+    ""task"": ""click on the button below the 'Save Location' option"",
+    ""buttons"": [
+      ""Find My Car"",
+      ""Save Location"",
+    ]
+ },"
+20,click on the button below find my car,"To click on the button below 'Find My Car', the user would need to follow these steps:
+
+1. Tap on the 'Find My Car' button.
+
+This sequence of taps should allow the user to reach their desired action of clicking on the 'Find My Car' button.","{
+    ""task"": ""click on the button below 'Find My Car'"",
+    ""buttons"": [
+      ""Find My Car""
+    ]
+},"
+21,click on the arrow which is beside search option,"To click on the arrow beside the search option, you should tap on the search icon which is located in the bottom right corner of the screen.","{
+    ""task"": ""click on the arrow beside the search option"",
+    ""buttons"": [
+      ""Arrow Beside The Search Option"",
+      ""Search Icon""
+    ]
+},"
+22,click on the image above image 1,"To click on the image above image 1, the user should perform the following steps:
+
+
+1. Tap on the image with the label ""Image 1"" to open the desired image.
+
+Please note that these steps are based on the visible UI elements in the image and might not be the most efficient way to complete the task.","{
+    ""task"": ""click on the image above image 1"",
+    ""buttons"": [
+      ""Image 1"",
+    ]
+ },"
+23,click on the second image in first row,"To click on the second image in the first row, the user would need to follow these steps:
+
+1. Tap on the first image in the first row to reveal the rest of the images.
+2. Tap on the second image in the first row.","{
+    ""task"": ""click on the second image in the first row"",
+    ""buttons"": [
+      ""First Image In The First Row To Reveal The Rest Of The Images"",
+      ""Second Image In The First Row"",
+    ]
+  },"
+24,select the image which is above image4,"To select the image above image4, the user should follow these steps:
+1. Tap the image above image4.
+2. The selected image will appear at the top of the screen.
+3. The user can then tap the back button (arrow pointing left) at the top left corner of the screen to return to the previous screen.
+4. The user should then tap the image4 on the previous screen.
+5. The image above image4 should now be selected.
+
+Note: Since the user is on the ""easy plans"" screen, they can also select the desired image by tapping on it directly from the list.","{
+    ""task"": ""select the image above image4"",
+    ""buttons"": [
+      ""Image""
+    ]
+  },"
+25,click on the third image in the first row,"Based on the image provided, the user needs to complete the following sequence of actions to reach the desired image:
+
+
+1. Tap on the third image in the first row.","{
+    ""task"": ""click on the third image in the first row"",
+    ""buttons"": [
+      ""Third Image In The First Row""
+    ]
+ },"
+26,click on the fourth image from left in second row,"To complete the task of clicking on the fourth image from left in the second row, the following sequence of taps is required:
+
+1. Tap on the second image in the second row to select the second row.
+2. Tap on the fourth image from left in the second row to select the fourth image.
+3. Tap on the fourth image from left in the second row to complete the task.
+
+Note: The first image in the second row is the third image from left in the first row, and the second image in the second row is the first image in the second row.","{
+    ""task"": ""clicking on the fourth image from left in the second row"",
+    ""buttons"": [
+      ""Second Image In The Second Row To Select The Second Row"",
+      ""Fourth Image From Left In The Second Row To Select The Fourth Image"",
+      ""Fourth Image From Left In The Second Row To Complete The Task""
+    ]
+  },"
+27,click on the second image in second row from left,"To click on the second image in the second row from left, the user would need to perform the following steps:
+
+1. Tap on the image numbered ""14"" to navigate to the correct row.
+2. Tap on the image numbered ""11"" to navigate to the correct column.
+3. Tap on the image numbered ""11"" again to select the image.
+
+This would be a total of 3 taps to complete the task.","{
+    ""task"": ""click on the second image in the second row from left"",
+    ""buttons"": [
+      ""Image"",
+    ]
+  },"
+28,click on image above image12,"Based on the image provided, it appears that the user is looking at a mobile application displaying various images of interior designs, likely for inspiration or reference. To click on an image above image12, the user would need to:
+
+1. Tap on the ""Easy plans"" tab at the top of the screen, if it is not already selected.
+2. Tap on the image12 button.
+3. Tap on the image above the image12 button.
+
+Note: These steps assume that the image above the image12 button is the one the user wants to click on. If there are other images that the user might want to click on, additional steps may be required.","{
+    ""task"": ""click on an image above image12"",
+    ""buttons"": [
+      ""Easy Plans"",
+      ""Image12 Button"",
+      ""Image""
+    ]
+  },"
+29,click on the three vertical dots at the top right corner,"To click on the three vertical dots at the top right corner, you can follow these steps:
+1. Tap on the top right corner of the screen to bring up the menu.
+2. The three vertical dots should be in the menu.
+3. Tap on the three vertical dots to select the desired option.","{
+    ""task"": ""click on the three vertical dots at the top right corner"",
+    ""buttons"": [
+      ""Menu"",
+      ""Three Vertical Dots""
+    ]
+  },"
+30,click on the bell button at the bottom right corner of the page,"Sure, to click on the bell button at the bottom right corner of the page, you would need to follow these steps:
+
+1. Tap on the bell button.
+
+Please note that the exact number of taps required may vary depending on the device and the user's actions, such as dragging or swiping. However, the above steps should be sufficient to complete the task.","{
+    ""task"": ""click on the bell button at the bottom right corner of the page"",
+    ""buttons"": [
+      ""Bell Button""
+    ]
+  },"
+31,click on pause icon,"To click on the pause icon, the user would need to perform the following steps:
+1. Tap on the play button, which is located on the bottom of the screen.
+2. Tap on the pause icon to stop the video.
+Please note that the exact number of steps may vary based on the device and operating system being used.","{
+    ""task"": ""click on the pause icon"",
+    ""buttons"": [
+      ""Play Button"",
+      ""Pause Icon"",
+    ]
+  },"
+32,click on share icon,"Based on the image provided, the share icon is located at the top right corner. To access the share icon, the user should perform the following steps:
+
+1. Tap on the three vertical lines icon located at the top left corner of the screen.
+2. Tap on the share icon, which is the second icon from the right."," {
+    ""task"": ""access the share icon"",
+    ""buttons"": [
+      ""Three Vertical Lines Icon"",
+       ""Share Icon""
+    ]
+},"
+33,click on the play button beside the bell icon,"Based on the image provided, the user should follow these steps to complete the task:
+
+1. Tap on the bell icon to activate the bell sound.
+2. Tap on the play button to start the video."," {
+    ""task"": ""click on the play button "",
+    ""buttons"": [
+      ""Bell"",
+      ""Play""
+    ]
+},"
+34,click on intercourse which is next to menses,"To complete the task of clicking on intercourse next to menses, the user would need to follow these steps:
+1. Tap on the ""Intercourse"" button."," {
+    ""task"": ""click on intercourse"",
+    ""buttons"": [
+      ""Intercourse""
+    ]
+},"
+35,click the button intercourse on the web page,"To complete the task of clicking the ""intercourse"" button, the user should follow these steps:
+1. Tap on the ""Mood"" button.
+2. Tap on the ""Intercourse"" button.
+3. The user has successfully clicked the ""intercourse"" button."," {
+    ""task"": ""click the button intercourse"",
+    ""buttons"": [
+      ""Mood"",
+      ""Intercourse""
+    ]
+},"
+36,click on the icon on the right side of weight,"To click on the icon on the right side of the ""weight"" button, the user should follow these steps:
+
+1. Tap on the ""weight"" button.
+2. Tap on the icon on the right side of the ""weight"" button.
+
+Please note that the user must already be on the screen with the ""weight"" button for these steps to work."," {
+    ""task"": ""click on the icon on the right side of weight"",
+    ""buttons"": [
+      ""Weight"",
+    ]
+},"
+37,select the text right to round star mark at the top of the page,"Based on the image provided, here is a sequence of taps to select the text right to the round star mark at the top of the page:
+
+1. Tap on the 'Mood' icon at the top of the page.
+2. Tap on the '+' icon at the bottom of the screen.
+3. Tap on the 'Headache' icon at the bottom of the screen.
+4. Tap on the 'Note' icon at the bottom of the screen.
+
+This sequence of taps will allow the user to select the text right to the round star mark at the top of the page."," {
+    ""task"": ""select text"",
+    ""buttons"": [
+      ""Mood"",
+      ""+"",
+      ""Headache"",
+      ""Note""
+    ]
+},"
+38,click on,"To complete the task of clicking on 'Intercourse', the user should follow these steps:
+1. Tap on the 'Intercourse' button."," {
+    ""task"": ""click on"",
+    ""buttons"": [
+      ""Intercourse""
+    ]
+},"
+39,select the 3 dot more button,"To select the 3 dot more button in this image, you would need to perform the following steps:
+
+
+1. Tap on the ""More"" button, which is located at the top right of the screen."," {
+    ""task"": ""select the 3 dot button"",
+    ""buttons"": [
+      ""More""
+    ]
+},"
+40,click on headache right next to mood,"Based on the image, the user needs to tap on the ""Headache"" option next to ""Mood"" to complete the task. Here is the shortest sequence of taps required to complete this task:
+
+1. Tap on the ""Mood"" option.
+2. Tap on the ""Headache"" option next to ""Mood."""," {
+    ""task"": ""click on headache"",
+    ""buttons"": [
+      ""Mood"",
+      ""Headache""
+    ]
+},"
+41,select the symbol which is to the left of first check box in the first option of semt seciniz category,"Based on the image provided, the user's goal is to tap on the symbol which is to the left of the first checkbox in the first option of the ""Semt seciniz"" category.
+
+Here's the sequence of taps required to complete this task:
+
+1. Tap on the ""Semt seciniz"" category option.
+2. Tap on the first checkbox in the first option.
+3. Tap on the symbol which is to the left of the first checkbox.
+
+The total number of taps required is 3."," {
+    ""task"": ""select the symbol"",
+    ""buttons"": [
+      ""Semt seciniz"",
+      ""checkbox""
+    ]
+},"
+42,click the button which is in the third row from the text semt seciniz,"Based on the image, to click the button which is in the third row from the text semt seciniz, you can follow these steps:
+
+1. Tap on the first row button which is 'Yemeksepetiinin sundugú' to navigate to the next screen.
+2. Tap on the 'Kampanyalar, indirimler ve hafta alışım' button on the next screen.
+3. Tap on the 'Semt seciniz' button on the next screen.
+4. Tap on the 'Yemeksepetiinin sundugú' button on the next screen.
+
+Note that the exact number of steps may vary depending on the user's interaction with the app and the specific sequence of taps required to reach the desired button."," {
+    ""task"": ""click on the button"",
+    ""buttons"": [
+      ""Yemeksepetiinin sundugu"",
+      ""Kampanyalar, indirimler ve hafta alışım"",
+      ""Semt seciniz"",
+      ""Yemeksepetiinin sundugú""
+    ]
+},"
+43,click on the logo which contains la galaxy,"Based on the image, here are the steps to complete the task:
+
+1. Tap on the 'LA Galaxy' logo.
+
+Please note that this is a general guide based on the visible elements in the image. The exact steps may vary depending on the user's device and the app's design."," {
+    ""task"": ""click on the logo"",
+    ""buttons"": [
+      ""LA Galaxy logo""
+    ]
+},"
+44,click on the first  mail image text field,"To complete the task of clicking on the first email image text field, the user should follow these steps:
+
+1. Tap the 'Sign Up' button at the top of the screen.
+2. Tap the 'Next' button at the bottom of the screen.
+3. Tap the 'appcrawler1@gmail.com' text field."," {
+    ""task"": ""click on the first mail image"",
+    ""buttons"": [
+      ""Sign Up"",
+      ""Next"",
+    ],
+    ""field"":[
+       ""text""
+    ]
+},"
+45,select the close icon which is below the next option,"Based on the image, the user should perform the following steps to select the close icon:
+1. Tap on the 'Next' button located at the top right corner of the screen.
+2. Tap on the 'Close' icon, which is located at the bottom left corner of the screen, just below the 'Next' button."," {
+    ""task"": ""select the close icon"",
+    ""buttons"": [
+      ""Next"",
+      ""Close""
+    ]
+},"
+46,select a female icon which is above 2 line text,"To select a female icon above 2 line text, the user should follow these steps:
+
+1. Tap on the 'female' icon above the 2 line text.
+
+"," {
+    ""task"": ""select a female icon"",
+    ""buttons"": [
+      ""Female""
+    ]
+},"
+47,click the male icon,"Sure, based on the image, here are the steps the user should take to complete the task:
+1. Tap on the 'Male' icon.
+2. The user is now on the 'Sign Up' screen.
+3. Tap on the 'Next' button.
+4. The user is now on the 'appcrawler1@gmail.com' screen.
+5. Tap on the 'Next' button.
+
+Please note that there is no 'Male' icon visible in the image, so it is not possible to complete the task as requested."," {
+    ""task"": ""click on the male icon"",
+    ""buttons"": [
+      ""Male"",
+      ""Next""
+    ]
+},"
+48,click on lauralee,"To complete the task of clicking on the ""lauralee"" contact, the user should follow these steps:
+
+1. Tap on the ""appcrawler1@gmail.com"" contact to open the contact details.
+2. Tap on the ""Sign Up"" button to navigate to the sign-up page.
+3. Tap on the ""Laura Lee"" contact name to select it.
+4. Tap on the ""Next"" button to proceed with the sign-up process.
+
+Note: The user may need to enter additional information or complete additional steps before they can access the ""Laura Lee"" contact details."," {
+    ""task"": ""click on lauralee"",
+    ""buttons"": [
+      ""Sign Up"",
+      ""Next""
+    ]
+},"
+49,go to next,"To complete the task of going to the next screen, the user should follow these steps:
+
+1. Tap the ""NEXT"" button located at the top right corner of the screen.
+
+"," {
+    ""task"": ""go to next"",
+    ""buttons"": [
+      ""Next""
+     ]
+},"
+50,click on the share icon,"To complete the task of clicking on the share icon, the user should follow these steps:
+1. Tap on the share icon, which is located in the top right corner of the screen."," {
+    ""task"": ""click on the share"",
+    ""buttons"": [
+      ""Share Icon""
+    ]
+},"
+51,click on the star symbol,"Based on the image, the following is the shortest sequence of taps required to complete the task:
+
+1. Tap on the star symbol located on the top right corner of the screenshot."," {
+    ""task"": ""click on the star"",
+    ""buttons"": [
+      ""Star""
+    ]
+},"
+52,click on the icon left to the text last added,"Based on the image, the user needs to tap the ""All"" button, which is located in the top right corner of the screen, to expand the menu. Then, they should tap the ""Last Added"" button, which is also located in the top right corner of the screen. These two steps should allow the user to reach the last added item."," {
+    ""task"": ""access the share icon"",
+    ""buttons"": [
+      ""Share Icon"",
+      ""Three Vertical Lines Icon Located At The Top Left Corner Of The Screen""
+    ]
+},"
+53,click on the icon beside all on the  top of the web page,"Based on the current screenshot, here's the shortest sequence of taps required to complete the task:
+1. Tap on the ""Last Added"" tab on the bottom of the screen.
+2. Tap on the ""All"" tab on the top right corner of the screen.
+3. Tap on the green star icon located in the top right corner of the screen."," {
+    ""task"": ""click on the icon besides all on the top of the web page"",
+    ""buttons"": [
+      ""Last Added"",
+      ""All"",
+      ""Green Star""
+    ]
+},"
+54,click the box next to books,"Based on the image, the user needs to perform the following steps to click the box next to ""BOOKS"":
+1. Tap on the ""BOOKS"" button.
+2. Tap on the ""See all"" button.
+3. Tap on the box next to ""BOOKS"" in the ""Top 10 Comics"" section.
+"," {
+    ""task"": ""click the box next to books"",
+    ""buttons"": [
+      ""BOOKS"",
+      ""See all"",
+      ""box""
+    ]
+},"
+55,click on second image timer,"Based on the image, here is the shortest sequence of taps required to complete the task:
+1. Tap on the ""Comics"" icon in the bottom menu bar.
+2. Tap on the ""See all"" button on the ""Comics"" page.
+3. Tap on the ""Medical Tales Retold!"" comic book cover.
+4. Tap on the ""Moonlight Hair"" comic book cover.
+5. Tap on the timer icon on the ""Moonlight Hair"" comic book page.
+Note: The timer icon is located on the bottom right corner of the comic book cover."," {
+    ""task"": ""click on second image timer"",
+    ""buttons"": [
+      ""Comics"",
+      ""See all"",
+      ""Medical Tales Retold"",
+      ""Timer""
+    ]
+},"
+56,click on the image right to npc,"Based on the image, the following steps could be taken to complete the task:
+
+1. Tap on the ""Comics"" tab at the bottom of the screen.
+2. Scroll through the list of comics to find the comic with the character ""right to NPC"".
+3. Tap on the comic cover to open it.
+4. Tap on the character ""right to NPC"" to interact with it.
+
+Please note that the exact number of steps may vary depending on the specific comic selected and the layout of the comic itself."," {
+    ""task"": ""click on the image"",
+    ""buttons"": [
+      ""Comics tab"",
+      ""comic cover"",
+      ""character""
+    ]
+},"
+57,select symbol above inbox,"The user's goal is to select the symbol above in the inbox. The following are the necessary steps visible in the image:
+
+
+1. Tap on the symbol above the inbox (the envelope icon) to select it.
+
+The user should be able to complete this task with these steps."," {
+    ""task"": ""select the symbol"",
+    ""buttons"": [
+      ""the envelope icon""
+    ]
+},"
+58,select the option which is beside your library,"Sure, I'd be happy to help with that. Here's a sequence of taps to complete the task:
+
+1. Tap on the ""Comics"" button, which is located at the bottom of the screen.
+2. Tap on the ""Medical Tales Retold!"" comic, which is displayed in the ""Top 10 Comics"" section.
+3. Tap on the ""See all"" button, which is located at the bottom of the screen, to reveal additional comic options.
+4. Tap on the ""Moonlight Hair"" comic, which is displayed in the ""Top 10 Books"" section.
+5. Tap on the ""Home"" button, which is located at the bottom of the screen, to return to the home screen."," {
+    ""task"": ""select the option beside library"",
+    ""buttons"": [
+      ""Comics"",
+      ""Medical Tales Retold!"",
+      ""See all"",
+      ""Moonlight Hair"",
+      ""Home""
+    ]
+},"
+59,click on the option which is before your library,"To complete the task of clicking on the option before the library, the user should follow these steps:
+1. Tap on the ""Home"" button located at the bottom of the screen.
+2. Tap on the ""Your library"" button located at the bottom of the screen.
+3. Tap on the ""Top 10 Comics"" button located at the bottom of the screen.
+4. Tap on the ""See all"" button located under the ""Top 10 Comics"" button.
+5. Tap on the ""Medical Tales Retold!"" button located under the ""See all"" button.
+
+Please note that the steps provided are based on the visible UI elements and their positions in the image. The actual sequence of taps may vary depending on the user's interaction with the app."," {
+    ""task"": ""click on the opiton before your library"",
+    ""buttons"": [
+      ""Home"",
+      ""Your library"",
+      ""Top 10 Comics"",
+      ""See all"",
+      ""Medical Tales Retold!""
+    ]
+},"
+60,click on the first text field beside name,"To complete this task, the user would need to perform the following sequence of taps:
+1. Tap the ""Name"" text field.
+2. Enter the desired name.
+"," {
+    ""task"": ""click on the first text field beside name"",
+    ""buttons"": [
+    
+    ]
+    ""field"":[
+       ""Name text"",
+    ]
+},"
+61,select the field which is right to the text password,"In the current screenshot, the ""Password"" field is located to the left of the ""Email"" field. To select the field which is right to the ""Password"" field, the user should tap on the ""Email"" field. This would be a one-step sequence of taps to complete the task."," {
+    ""task"": ""select the field next to password"",
+    ""buttons"": [
+    
+    ],
+    ""field"":[
+       ""Password"",
+       ""Email""
+    ]
+},"
+62,click on the goodreads terms of use and privacy policy option,"The user should tap the ""Sign Up"" button, then select the ""Sign Up with Amazon"" option, and finally click on the ""Goodreads Terms of Use and Privacy Policy"" link."," {
+    ""task"": ""click on terms of use and privacy policy"",
+    ""buttons"": [
+      ""Sign Up"",
+      ""Sign Up with Amazon"",
+      ""Goodreads Terms of Use and Privacy Policy""
+    ]
+},"
+63,click on the search icon,"To click on the search icon, the user should follow these steps:
+
+1. Tap on the 'Sign Up' button to proceed to the sign-up page.
+2. On the sign-up page, the user should scroll down and locate the 'Email' text field.
+3. Tap on the 'Email' text field to enter their email address.
+4. After entering the email address, the user should locate the 'Password' text field.
+5. Tap on the 'Password' text field to enter their password.
+6. Once the email and password have been entered, the user should tap on the 'Send me my friends' reviews' button.
+7. After clicking on the 'Send me my friends' reviews' button, the user should wait for the email to arrive.
+8. Upon receiving the email, the user should open the email and click on the search icon."," {
+    ""task"": ""click on search icon"",
+    ""buttons"": [
+      ""Sign Up"",
+      ""Email"",
+      ""Password"",
+      ""Send me my friends' reviews'"",
+      ""Search""
+    ], 
+    ""field"":[
+       ""Email text"",
+       ""Password text""
+    ]
+},"
+64,click on the button next to share,"To click on the button next to ""share"", the user should follow these steps:
+1. Tap on the ""Share"" icon, which is located at the top right corner of the screen.
+2. The user will be presented with a menu of options.
+3. The user should then tap on the ""Offers"" tab, which is the second option from the top in the menu.
+4. After selecting the ""Offers"" tab, the user should scroll down until they find the ""Allows Cartwheel to access your location"" option.
+5. The user should then tap on the ""Yes, please!"" button, which is located at the bottom of the screen.
+Please note that these steps are based on the information available in the image and may not cover all possible interactions with the app."," {
+    ""task"": ""click on the button next to share"",
+    ""buttons"": [
+      ""Share Icon"",
+      ""Offer tab"",
+      ""Yes, please!""
+    ]
+},"
+65,select the button which is in between my list and me,"To help the user select the button which is in between 'my list' and 'me', we need to navigate through the app. Here's a sequence of taps to reach the desired button:
+
+1. Tap on 'my list' button.
+2. Tap on 'My List' tab at the bottom of the screen.
+3. Tap on 'Offers' button on the top right corner of the screen.
+4. Tap on the 'Yes, please!' button on the bottom of the screen."," {
+    ""task"": ""select the button between 'my list' and 'me'"",
+    ""buttons"": [
+      ""my list"",
+      ""my list tab"",
+      ""Offers"",
+      ""Yes, please!""
+    ]
+},"
+66,click on the icon which is at bottom right of the page,"To click on the icon at the bottom right of the page, you would need to complete the following steps:
+
+1. Tap on the icon in the top right corner of the page to open the menu.
+2. Tap on the 'My Store' option in the menu.
+3. Tap on the 'Offers Only' button in the 'My Store' section.
+4. Tap on the 'Set your store' button in the 'Offers Only' section.
+5. Tap on the icon at the bottom right of the page.
+
+Please note that this sequence assumes that the user has navigated to the 'My Store' section and is already on the 'Set your store' page before attempting to tap on the icon at the bottom right of the page."," {
+    ""task"": ""click on the icon"",
+    ""buttons"": [
+      ""My Store"",
+      ""Offers Only"",
+      ""Set your store""
+    ]
+},"
+67,select image,"Based on the image, the following steps could be taken to select an image:
+1. Tap on the ""OFFERS ONLY"" button to reveal the shopping center.
+2. Tap on the shopping center's image to bring up the menu.
+3. Tap on the menu icon to reveal the menu options.
+4. Tap on the ""MY LIST"" option to access the user's saved list.
+5. Tap on the image in the user's saved list to select it."," {
+    ""task"": ""select image"",
+    ""buttons"": [
+      ""OFFERS ONLY"",
+      ""shopping center's image"",
+      ""menu icon"",
+      ""MY LIST"",
+      ""image""
+    ]
+},"
+68,click on yes please,"Based on the image provided, the user would need to tap on the ""YES, PLEASE!"" button to complete their task."," {
+    ""task"": ""clcik on yes please"",
+    ""buttons"": [
+      ""YES, PLEASE!""
+    ]
+},"
+69,click on 2017 mens gymnasticsbig ten championship text,"To click on the '2017 Mens Gymnastics: Big Ten Championship' text, the user should follow these steps:
+
+1. Tap on the 'FREE' button, which is located at the top of the screen.
+2. Tap on the 'WATCH' button, which is located at the top of the screen.
+3. Tap on the 'Pittsburgh' text, which is located in the 'PITTSBURGH' box."," {
+    ""task"": ""click on 2017 mens gymnastics"",
+    ""buttons"": [
+      ""FREE"",
+      ""WATCH"",
+      ""Pittsburgh""
+    ]
+},"
+70,click on the icon which is beside the text contact to developer,"To complete the task of clicking on the icon beside the text ""contact to developer,"" the user should follow these steps:
+1. Tap on the icon beside the text ""contact to developer."""," {
+    ""task"": ""click on the icon next to text contact to developer"",
+    ""buttons"": [
+      ""icon""
+    ]
+},"
+71,click on the diary icon,"To click on the diary icon, the user should tap the following steps:
+1. Tap on the ""Diary"" icon in the ""Diabetes Connect"" app."," {
+    ""task"": ""click on the diary icon"",
+    ""buttons"": [
+      ""Diary icon""
+    ]
+},"
+72,click on add icon,"To help the user complete the task of clicking on the 'add icon' button, here is a shortest sequence of taps:
+
+1. Tap on the '+' icon in the top right corner of the screen.
+2. Tap on the 'More' option.
+3. Tap on the 'Championnat Mobilis de Ligue 1 (ALG)' option.
+4. Tap on the 'Add Icon' button within the selected option.
+
+Please note that the actual steps required may vary depending on the specific design and functionality of the app."," {
+    ""task"": ""click on the add icon"",
+    ""buttons"": [
+      ""+ icon"",
+      ""More option"",
+      ""Championnat Mobilis de Ligue 1 (ALG) option"",
+      ""Add icon""
+    ]
+},"
+73,go to icon present in the left of 1400,"Based on the image, to go to the icon present in the left of 1400, the user should perform the following steps:
+1. Tap the ""More"" button in the top right corner of the screen.
+2. Tap the ""1400"" option on the next screen.
+3. Tap the ""Championnat Mobilis de Ligue 1 (ALG)"" option on the next screen.
+4. Tap the ""14:00"" option on the next screen.
+5. Tap the icon present in the left of the screen on the final screen.
+Please note that these steps are based on the current layout of the screenshot and may change if the app is updated."," {
+    ""task"": ""go to icon present"",
+    ""buttons"": [
+      ""More"",
+      ""1400 option"",
+      ""Championnat Mobilis de Ligue 1 (AGL) option"",
+      ""14:00"",
+      ""icon""
+    ]
+},"
+74,click on second icon which is at top right corner,"To click on the second icon which is at the top right corner of the screen, the user should perform the following steps:
+1. Tap on the 'More' button located at the top right corner of the screen."," {
+    ""task"": ""click on second icon"",
+    ""buttons"": [
+      "" More""
+    ]
+},"
+75,click on the icon which is next to word of the day,"To complete the task of clicking on the icon next to ""Word of the day"" on the Nepali Dictionary app, follow these steps:
+
+1. Tap on the ""Games"" button at the bottom of the screen.
+2. Tap on the ""Explore Careers"" button on the bottom of the ""Games"" screen.
+3. Tap on the ""Word of the day"" button at the bottom of the ""Explore Careers"" screen.
+4. Tap on the icon next to the word ""missstep"" on the ""Word of the day"" screen."," {
+    ""task"": ""click on the icon next to word of the day"",
+    ""buttons"": [
+      ""Games"",
+      ""Explore Careers"",
+      ""Word of the day"",
+      ""icon""
+    ]
+},"
+76,select the icon which is at the top left corner,"To select the icon at the top left corner, the user should tap on the 'back' arrow located at the top left corner of the screen."," {
+    ""task"": ""select the icon"",
+    ""buttons"": [
+      ""back arrow""
+    ]
+},"
+77,select the box which has blue crayon inside a circle,"Based on the image provided, the user should follow these steps to select the box with a blue crayon inside a circle:
+
+1. Tap on the arrow pointing downwards on the top left corner of the screen. This will open the menu.
+2. Tap on the second icon from the left in the menu. This will open the 'Game' section.
+3. Tap on the first icon from the left in the 'Game' section. This will open the 'Coloring Book' game.
+4. Tap on the first icon from the left in the 'Coloring Book' game. This will open the coloring page.
+5. Tap on the box with a blue crayon inside a circle. This will select the box.
+
+Note: The actual number of steps may vary depending on the specific layout and functionality of the mobile app. The steps provided are based on the visible elements in the image and are intended to"," {
+    ""task"": ""select the box with a blue crayon inside a circle"",
+    ""buttons"": [
+      ""arrow pointing downwards"",
+      ""second icon"",
+      ""first icon"",
+      ""first icon"",
+      ""box""
+    ]
+},"
+78,select the box which has a green crayon inside a circle,"Based on the image, to select the box with a green crayon inside a circle, the user should follow these steps:
+
+1. Tap on the 'Triangle' button located at the bottom left corner of the screen.
+2. Tap on the 'Red' button located at the bottom right corner of the screen.
+3. Tap on the 'Green' button located at the bottom right corner of the screen.
+4. Tap on the 'Triangle' button located at the bottom right corner of the screen.
+5. Tap on the 'Circle' button located at the bottom right corner of the screen.
+
+This sequence of taps should allow the user to select the desired box with a green crayon inside a circle."," {
+    ""task"": ""select the box which has a green crayon inside a circle"",
+    ""buttons"": [
+      ""Triangle"",
+      ""Red"",
+      ""Green"",
+      ""Triangle"",
+      ""Circle""
+    ]
+},"
+79,select the first red colour which is at the top of the page,"Based on the image, the user would need to follow these steps to select the first red color:
+
+1. Tap on the red color located at the top of the screen.
+
+The image provided shows a mobile application with a checkerboard pattern, and there are four red triangles. The user needs to tap on the red color located at the top of the screen. The sequence of taps required to complete this task is just one tap on the red color at the top of the screen."," {
+    ""task"": ""access the share icon"",
+    ""buttons"": [
+      ""Share Icon"",
+      ""Three Vertical Lines Icon Located At The Top Left Corner Of The Screen""
+    ]
+},"
+80,select the red colored triangle,"To select the red colored triangle, the user needs to follow these steps:
+
+1. Tap on the arrow icon (blue arrow pointing to the right) in the top left corner of the screen.
+2. Tap on the red triangle icon in the top right corner of the screen."," {
+    ""task"": ""select the red colored triangle"",
+    ""buttons"": [
+      ""Arrow icon"",
+      ""Red triangle icon""
+    ]
+},"
+81,go to first option in third row,"To go to the first option in the third row, the user would need to follow these steps:
+1. Tap on the arrow pointing down in the top left corner of the screen.
+2. Tap on the first option in the third row.
+
+Please note that the user would need to swipe left or right to navigate through the options if they are not already visible in the current screenshot."," {
+    ""task"": ""go to first option"",
+    ""buttons"": [
+      ""arrow pointing down"",
+      ""first option""
+    ]
+},"
+82,select the image in the first row,"To select the image in the first row, follow these steps:
+1. Tap the arrow pointing up and right to move to the first row.
+2. Tap the red triangle icon in the first row to select the desired image."," {
+    ""task"": ""select the image in the first row"",
+    ""buttons"": [
+      ""arrow pointing up"",
+      ""red triangle""
+    ]
+},"
+83,select the first image in the second row,"To select the first image in the second row, the user should follow these steps:
+1. Tap the second button from the left in the second row, which is the red triangle.
+2. Tap the first button from the left in the third row, which is the blue pen.
+3. Tap the second button from the left in the third row, which is the green pencil.
+4. Tap the first button from the left in the fourth row, which is the red pen.
+5. Tap the second button from the left in the fourth row, which is the green pencil."," {
+    ""task"": ""select the first image in the second row"",
+    ""buttons"": [
+      ""Red Triangle"",
+      ""Blue pen"",
+      ""Green pencil"",
+      ""Red pen""
+    ]
+},"
+84,click on the trending option,"To click on the trending option, the user should perform the following sequence of taps:
+1. Tap on the 'Trending' button."," {
+    ""task"": ""click on the trending opiton"",
+    ""buttons"": [
+      ""Trending""
+    ]
+},"
+85,click on the icon which is in between explore and search icon,"Based on the image provided, the user should tap on the ""New"" button to reach the ""Explore"" tab. Then, they should tap on the ""Trending"" button to reach the ""Trending"" section. Finally, they should tap on the icon which is in between the ""Explore"" and ""Search"" icons. The shortest sequence of taps required to complete this task is:
+
+1. Tap on the ""New"" button.
+2. Tap on the ""Trending"" button.
+3. Tap on the icon which is in between the ""Explore"" and ""Search"" icons."," {
+    ""task"": ""click on the icon between explore and search icon"",
+    ""buttons"": [
+      ""New"",
+      ""Trending"",
+    ]
+},"
+86,select the icon which is right to the text youre following,"Sure, I'll help you navigate through the app based on the screenshot. To reach the icon that is right to the text you're following, you would need to:
+
+1. Tap on the ""You're following"" button.
+2. Tap on the icon you're looking for.
+
+Please note that the exact number of taps required may vary depending on the size of the icons and the user's device."," {
+    ""task"": ""select the icon"",
+    ""buttons"": [
+      ""You're following"",
+      ""Icon""
+    ]
+},"
+87,go to download icon,"Based on the image provided, the user can complete the task by following these steps:
+
+1. Tap on the ""Profile"" button located at the bottom of the screen.
+2. Tap on the ""Settings"" button within the profile section.
+3. Tap on the ""VPN profiles defined"" option.
+4. Tap on the ""+"" icon next to the ""VPN profiles defined"" option to add a new VPN profile.
+5. Use the ""+"" icon to import an existing VPN profile from the sdcard.
+
+Please note that the exact number of taps required to complete this task may vary depending on the size of the buttons and the user's device."," {
+    ""task"": ""go to download"",
+    ""buttons"": [
+      ""Profile"",
+      ""Settings"",
+      ""VPN profiles defined"",
+      ""+ icon""
+    ]
+},"
+88,select the settings option beside profile option,"To complete the task of selecting the settings option beside the profile option, the user needs to follow these steps:
+
+1. Tap on the ""Profiles"" option at the top of the screen.
+2. Tap on the ""Settings"" option that appears below the ""Profiles"" option.
+"," {
+    ""task"": ""select the settings option"",
+    ""buttons"": [
+      ""Profiles"",
+      ""Settings""
+    ]
+},"
+89,select the faq option which is to the right side of settings,"To select the ""FAQ"" option in the ""SETTINGS"" menu, the user should follow these steps:
+
+1. Tap on the ""SETTINGS"" button located at the top right corner of the screen.
+2. Tap on the ""FAQ"" option, which is located at the bottom of the ""SETTINGS"" menu.
+
+Please note that the exact number of taps required may vary based on the user's device and screen size."," {
+    ""task"": ""select the faq option"",
+    ""buttons"": [
+      ""SETTINGS"",
+      ""FAQ""
+    ]
+},"
+90,click on the button which is to the right of openvpn for android,"To complete the task, the user should follow these steps:
+
+1. Tap the 'Profiles' button on the bottom of the screen.
+2. Tap the 'FAQ' button on the top right corner of the screen.
+3. Tap the 'about' button on the bottom right corner of the screen.
+4. Tap the 'OpenVPN for Android' button on the screen.
+
+Please note that the user should also be aware of any other requirements or instructions provided by the app, as well as the app's specific features and functionalities."," {
+    ""task"": ""click on the button next to openvpn"",
+    ""buttons"": [
+      ""Profiles"",
+      ""FAQ"",
+      ""about"",
+      ""OpenVPN for Android""
+    ]
+},"
+91,click the tick mark on the first image,"Based on the screenshot, the user would need to perform the following steps to click the tick mark on the first image:
+1. Tap the image to open it.
+2. Tap the tick mark icon within the image.
+3. The tick mark icon is not visible in the image, so the user would need to locate and tap the tick mark icon."," {
+  ""task"": ""Click the tick mark on the first image"",
+  ""buttons"": [
+      ""image"",
+      ""tick mark""
+   ],
+}"
+92,select the ninth image,"Based on the current screenshot, the user needs to interact with the grid of images. Since there are nine images, the user should be able to select the ninth image directly from the grid without needing to navigate through the other images. To complete the task of selecting the ninth image, the user should tap on the ninth image from the grid."," {
+    ""task"": ""select the nith image"",
+    ""buttons"": [
+      ""minth image from the grid""
+    ]
+},"
+93,select the add icon,"To complete the task of selecting the add icon, the user should follow these steps:
+
+1. Tap on the 'Skin choose' button.
+2. Tap on the '+' button.
+
+Please note that the exact steps may vary depending on the design and layout of the app, but these are the most likely steps to follow based on the image provided."," {
+    ""task"": ""select the add icon"",
+    ""buttons"": [
+      ""Skin choose"",
+      ""+""
+    ]
+},"
+94,click the first image,"Based on the image, the user can interact with the mobile app by clicking on the images displayed. The first image is visible in the bottom left corner of the screen. To complete the task of clicking the first image, the user can simply tap on it. The shortest sequence of taps required to complete this task is:
+
+1. Tap on the first image in the bottom left corner of the screen."," {
+    ""task"": ""click on the first image"",
+    ""buttons"": [
+      ""First image""
+    ]
+},"
+95,select the third row first image,"To select the third row first image, you can follow these steps:
+1. Tap on the first image in the third row, which is the flower image.
+2. Tap on the second image in the third row, which is the sunset image.
+3. Tap on the third image in the third row, which is the flower image.
+4. Tap on the fourth image in the third row, which is the flower image.
+5. Tap on the fifth image in the third row, which is the flower image.
+This sequence of taps will allow the user to select the third row first image."," {
+    ""task"": ""select the image"",
+    ""buttons"": [
+      ""Flower image"",
+      ""Sunset Image"",
+    ]
+},"
+96,select the first column second image,"Based on the image provided, it seems that the user wants to select the first column, second image. To complete this task, the user should follow these steps:
+
+1. Tap on the first column, which is the flower image on the top left corner.
+2. Tap on the second image, which is the sunflower image in the second row and first column.
+
+Please note that the image does not show any specific button or icon for the first column, so the user should tap directly on the image to select it."," {
+    ""task"": ""select the first column second image"",
+    ""buttons"": [
+      ""Flower image"",
+      ""Sunflower image""
+    ]
+},"
+97,select the bottom right image,"To select the bottom right image, the user needs to perform the following steps:
+1. Tap the 'Skin choice' button located at the top of the screen.
+2. Tap the bottom right image within the grid."," {
+    ""task"": ""select the bottom image"",
+    ""buttons"": [
+      ""Skin choice"",
+      ""image""
+    ]
+},"
+98,select the second row second image,"Based on the image provided, to select the second row second image, the user would need to perform the following steps:
+
+1. Tap on the second image in the first row (the image with the dandelion and water droplets).
+2. Tap on the second image in the second row (the image with the sunset).
+
+Please note that the actual number of steps may vary depending on the user's device and the specifics of the app's user interface."," {
+    ""task"": ""select the second row second image"",
+    ""buttons"": [
+      ""Image"",
+      ""Sunset image""
+    ]
+},"
+99,click on next icon which is at bottom right corner of group b,"Based on the image, the next icon is located at the bottom right corner of the screen. To reach this icon, the user should follow these steps:
+1. Tap on the ""World Cup - UEFA Qualification: group B"" button at the top of the screen.
+2. Tap on the ""FT"" button at the bottom of the screen to navigate to the next group.
+3. Tap on the ""FT"" button at the bottom of the screen again to navigate to the next group.
+4. Tap on the ""FT"" button at the bottom of the screen again to navigate to the next group.
+5. Tap on the ""FT"" button at the bottom of the screen again to navigate to the next group.
+6. Tap on the ""FT"" button at the bottom of the screen again to navigate to the next group.
+7. Tap on the ""FT"" button at the bottom of the screen again to"," {
+    ""task"": ""click on next icon"",
+    ""buttons"": [
+      ""World Cup - UEFA Qualification: group B"",
+      ""FT""
+    ]
+},"
+100,click on the second fifa icon at the left side of the page,"The user wants to click on the second FIFA icon at the left side of the page. To complete this task, the following sequence of taps is required:
+
+1. Tap on the FIFA icon on the left side of the page.
+2. Tap on the second FIFA icon in the group list."," {
+    ""task"": ""clcik on the second fifa icon"",
+    ""buttons"": [
+      ""FIFA Icon""
+    ]
+},"
+101,click on the cloud icon which is beside 11pm,"To complete the task of clicking on the cloud icon beside 11pm, the user should follow these steps:
+
+1. Tap on the ""Interactive Radar"" tab at the top of the screen.
+2. Tap on the ""Daily Forecast"" tab within the ""Interactive Radar"" menu.
+3. Tap on the ""Hourly Forecast"" tab within the ""Daily Forecast"" menu.
+4. Scroll down to the time of 11pm.
+5. Tap on the cloud icon beside 11pm."," {
+    ""task"": ""access the share icon"",
+    ""buttons"": [
+      ""Share Icon"",
+      ""Three Vertical Lines Icon Located At The Top Left Corner Of The Screen""
+    ]
+},"
+134,text field below the text password,"To complete the task of 'text field below the text password', the user should follow these steps:
+
+1. Tap on the 'Password' text field.
+2. Tap on the 'Enter your SplashTop Account' button.
+3. Tap on the 'Stay logged in' checkbox.
+4. Tap on the 'Forget your password?' text link.
+5. Tap on the 'New to SplashTop? Create an account.' text link.
+
+This sequence of taps will lead the user to the text field below the text password."," {
+    ""task"": ""text field below the text password"",
+    ""buttons"": [
+      ""Enter your SplashTop Account"",
+      ""Stay logged in"",
+      ""Forget your password?"",
+      ""New to SplashTop? Create an Account. link""
+    ], 
+    ""field"":[
+       ""Password text"",
+    ]
+
+},"
+135,click on the option which is below log in,"To help the user complete the task, here is the shortest sequence of taps visible in the image:
+1. Tap on the ""Log in"" button.
+2. Tap on the ""Forget your password?"" link.
+3. Tap on the ""New to SplashTop? Create an account."" link."," {
+    ""task"": ""click on the option below log in"",
+    ""buttons"": [
+      ""Log in"",
+      ""Forget your password? link"",
+      ""New to SplashTop? Create an account. link""
+    ]
+},"
+136,click on the text which is below the email,"Based on the image provided, here is the shortest sequence of taps required to complete the task:
+
+1. Tap on the ""Forget your password?"" link.
+2. Tap on the ""New to SplashTop? Create an account."" link.
+
+Please note that the above instructions are based on the visible elements in the image and do not make assumptions beyond what is clearly visible."," {
+    ""task"": ""click on the text below the email "",
+    ""buttons"": [
+      ""Forget your password? link"",
+      ""New to SplashTop? Creat an account link""
+    ]
+},"
+137,select the image which is below mashed potato muffins on the page,"Based on the current screenshot, to select the image below mashed potato muffins, the user would need to perform the following steps:
+1. Tap on the ""Mashed Potato Muffins"" text.
+2. Scroll down until the image below mashed potato muffins is visible.
+3. Tap on the image to select it."," {
+    ""task"": ""select the image below mashed potato muffins"",
+    ""buttons"": [
+      ""Mashed Potato Muffins text"",
+      ""image""
+    ]
+},"
+138,select the edit option on the bottom,"To select the edit option on the bottom of the screenshot, the user should follow these steps:
+
+1. Tap on the shopping list icon at the bottom of the screen.
+2. Tap on the ""Edit"" button, which is located on the bottom right corner of the screen."," {
+    ""task"": ""select the edit option"",
+    ""buttons"": [
+      ""Shopping list icon"",
+      ""Edit""
+    ]
+},"
+140,click on mobile image,"The user needs to interact with the ""Jet"" app on their mobile device. The image shows the app's login screen. To complete the task of clicking on a mobile image, the user should follow these steps:
+1. Tap on the ""Home"" button to return to the main menu.
+2. Tap on the ""Shop by Category"" button to navigate to the category section.
+3. Tap on the ""Ja"" button to access the ""Ja"" category.
+4. Tap on the ""Jet Anywhere"" button to access the ""Jet Anywhere"" section.
+5. Tap on the ""Sign In/Create Account"" button to access the account creation or login screen.
+
+Note: The user may need to complete additional steps not visible in the image, such as entering their login credentials or navigating to a specific page within the app."," {
+    ""task"": ""click on mobile image"",
+    ""buttons"": [
+      ""Home"",
+      ""Shop by Category"",
+      ""Ja"",
+      ""Jet Anywhere"",
+      ""Sign In/ Create Account""
+    ]
+},"
+141,select the dropdown icon at top right corner,"The interactable UI elements visible in the image are:
+
+1. The dropdown icon at the top right corner of the screen.
+
+To complete the task of selecting the dropdown icon, the user should tap on the dropdown icon, which is the second icon from the right in the top right corner of the screen."," {
+    ""task"": ""select the dropdown icon"",
+    ""buttons"": [
+      ""Dropdown Icon""
+    ]
+},"
+142,click on the sun symbol beside calendar symbol,"The image shows a mobile application with a calendar icon and a sun icon. The calendar icon is located on the top left corner of the screen, and the sun icon is situated on the top right corner of the screen. To complete the task of clicking on the sun symbol beside the calendar symbol, the user should perform the following steps:
+
+1. Tap on the calendar icon.
+2. Tap on the sun symbol.
+
+Note: The image does not provide enough information to determine if there are additional steps required to complete the task. The sun symbol may be located within another screen or menu that the user needs to access before reaching the sun symbol."," {
+    ""task"": ""click on the sun symbol"",
+    ""buttons"": [
+      ""Calendar Icon"",
+      ""Sum symbol""
+    ]
+},"
+143,click on the icon with the symbol calendar,"Based on the image, here's a sequence of taps to interact with the calendar icon:
+
+1. Tap on the calendar icon (located in the bottom right corner).
+2. This will open the calendar, allowing the user to select a specific date.
+3. The user can then tap on the desired date to set it as the current date in the app.
+
+Please note that the exact sequence of taps may vary depending on the specific design and functionality of the app."," {
+    ""task"": ""click on the icon with the symbol calendar"",
+    ""buttons"": [
+      ""Calendar icon"",
+      ""Desired Date""
+    ]
+},"
+144,select the 1st image below the maps,"To select the 1st image below the maps, the user should follow these steps:
+1. Tap the 'Executive Hotel Vintage Court' button, which is located at the bottom of the screen.
+2. Once the user is on the 'Executive Hotel Vintage Court' page, they should tap the 'Sort & Filter' button, which is located at the bottom of the screen.
+3. In the 'Sort & Filter' menu, the user should tap the '1 Room Left!' button, which is located at the bottom of the screen.
+4. The user should then tap the 'Sort & Filter' button again to close the menu.
+5. Finally, the user should tap the 1st image below the maps, which is located on the 'Executive Hotel Vintage Court' page."," {
+    ""task"": ""select the 1st image below the maps"",
+    ""buttons"": [
+      ""Executive Hotel Vintage Court"",
+      ""Sort & Filter"",
+      ""1 Room Left!"",
+      ""1st image""
+    ]
+},"
+145,select the 1st image completely below the maps,"To select the 1st image completely below the maps, you would need to perform the following steps:
+
+1. Tap on the ""1 Room Left!"" button on the bottom of the screen.
+2. Tap on the ""1 Room Left!"" button on the bottom of the screen.
+3. Tap on the ""1 Room Left!"" button on the bottom of the screen.
+4. Tap on the ""1 Room Left!"" button on the bottom of the screen.
+5. Tap on the ""1 Room Left!"" button on the bottom of the screen.
+
+Please note that these steps are based on the current layout and design of the mobile application in the screenshot. The actual steps may vary depending on the specific UI elements and their positions in the application."," {
+    ""task"": ""select the 1st image completely below the maps"",
+    ""buttons"": [
+      ""1 Room Left!""
+    ]
+},"
+146,go to the search icon on the top right corner,"To go to the search icon on the top right corner of the screenshot, you would need to perform the following steps:
+
+1. Tap on the top right corner of the screen to access the search icon."," {
+    ""task"": ""go to the search icon"",
+    ""buttons"": [
+      ""Search icon""
+    ]
+},"
+148,click on the text cm,"Based on the image provided, the following sequence of taps would be necessary to complete the task of clicking on the text ""cm"":
+
+1. Tap on the ""Weight"" button.
+2. Tap on the ""kg"" button.
+3. Tap on the ""cm"" button."," {
+    ""task"": ""click on the text cm "",
+    ""buttons"": [
+      ""Weight"",
+      ""kg"",
+      ""cm""
+    ]
+},"
+149,click on the text cm,"To complete the task of clicking on the text cm, the user should follow these steps:
+1. Tap on the 'Height' tab.
+2. Tap on the 'cm' button.
+This will lead the user to the desired screen with the text cm."," {
+    ""task"": ""click on the text cm"",
+    ""buttons"": [
+      ""Height tab"",
+      ""cm""
+    ]
+},"
