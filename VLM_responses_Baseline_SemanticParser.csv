@@ -3,11 +3,11 @@ I want to view traffic updates.,"The user wants to view traffic updates. To comp
 1. Tap on the ""Station"" button at the bottom of the screen.
 2. Tap on the ""Traffic"" option in the menu that appears.","{
    ""task"":""view traffic updates"",
-   ""buttons"":[
+   ""interactions"":[
       ""Station"",
       ""Traffic""
    ]
-}",TRUE,"{'task': 'view traffic updates', 'buttons': ['Traffic', 'Station'], 'field': []}"
+}",TRUE,"{'task': 'view traffic updates', 'interactions': ['Traffic', 'Station']}"
 I want to change the contact name to Jane Do.,"To change the contact name to Jane Do using the current screenshot, the user would need to follow these steps:
 
 1. Tap on the 'Barack Obama' text field to edit the name.
@@ -16,13 +16,11 @@ I want to change the contact name to Jane Do.,"To change the contact name to Jan
 
 Please note that the actual number of steps might be different depending on the app's design and functionality.","{
    ""task"":""change contact name to Jane Do"",
-   ""buttons"":[
-      ""Save""
-   ],
-   ""field"":[
+   ""interactions"":[
+      ""Save"",
       ""text""
    ]
-}",TRUE,"{'task': 'change the contact name to Jane Do using the current screenshot', 'buttons': ['Save'], 'field': ['text']}"
+}",TRUE,"{'task': 'change the contact name to Jane Do using the current screenshot', 'interactions': ['Save', 'text']}"
 I want to give my answer verbally.,"The image shows a mobile device displaying a user interface with the text ""Seraena Williams is going to win this tournament. "" The user wants to give their answer verbally. The necessary steps visible in the image are:
 
 1. Tap on the microphone icon located at the bottom of the screen.
@@ -31,11 +29,11 @@ I want to give my answer verbally.,"The image shows a mobile device displaying a
 
 These steps will allow the user to give their answer verbally and submit it.","{
    ""task"":""answer verbally and submit"",
-   ""buttons"":[
+   ""interactions"":[
       ""microphone"",
       ""Submit""
    ]
-}",TRUE,"{'task': 'give their answer verbally', 'buttons': ['microphone', 'Submit'], 'field': []}"
+}",TRUE,"{'task': 'give their answer verbally', 'interactions': ['microphone', 'Submit']}"
 Can I maintain my current weight?,"Based on the image, to complete the task of 'Can I maintain my current weight?' the user needs to follow these steps:
 
 1. Tap on the ""What is your goal?"" section.
@@ -45,12 +43,12 @@ Can I maintain my current weight?,"Based on the image, to complete the task of '
 
 This sequence of taps should help the user achieve their goal of maintaining their current weight.","{
    ""task"":""maintain current weight"",
-   ""buttons"":[
+   ""interactions"":[
       ""Lose 1 pound per week"",
       ""Lose 2 pounds per week"",
       ""Maintain current weight""
    ]
-}",TRUE,"{'task': 'complete the task of', 'buttons': ['Mainain current weight', 'Lose 2 pounds per week', 'Lose 1 pound per week'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of', 'interactions': ['Mainain current weight', 'Lose 2 pounds per week', 'Lose 1 pound per week']}"
 Can you save my location?,"To save the user's location, the user should follow these steps:
 
 1. Tap on the ""Find My Car"" button.
@@ -58,18 +56,18 @@ Can you save my location?,"To save the user's location, the user should follow t
 
 Please note that these instructions are based on the current screenshot and may not be the most efficient or optimal way to complete the task.","{
    ""task"":""save location"",
-   ""buttons"":[
+   ""interactions"":[
       ""Find My Car"",
       ""Save Location""
    ]
-}",TRUE,"{'task': 'save the user', 'buttons': ['Save Location', 'Find My Car'], 'field': []}"
+}",TRUE,"{'task': 'save the user', 'interactions': ['Save Location', 'Find My Car']}"
 I want to view image 3 in a larger view.,"To view image 3 in a larger view, the user should follow these steps:
 1. Tap on the image 3 icon in the bottom left corner of the screen to open the larger image.","{
    ""task"":""view image 3 in a larger view"",
-   ""buttons"":[
+   ""interactions"":[
       ""image 3""
    ]
-}",TRUE,"{'task': 'view image', 'buttons': ['image 3'], 'field': []}"
+}",TRUE,"{'task': 'view image', 'interactions': ['image 3']}"
 I want to make a note about my mood.,"Based on the image, the user should follow these steps to complete the task:
 
 1. Tap on the ""Mood"" button.
@@ -79,15 +77,13 @@ I want to make a note about my mood.,"Based on the image, the user should follow
 
 Please note that these steps are based on the visible elements in the image and may not cover all possible interactions with the app.","{
    ""task"":""note about my mood"",
-   ""buttons"":[
+   ""interactions"":[
       ""Mood"",
       ""+"",
-      ""Note""
-   ],
-   ""field"":[
+      ""Note"",
       ""text""
    ]
-}",TRUE,"{'task': 'complete the task', 'buttons': ['Mood', '+"" sign inside the ""Mood', 'Note'], 'field': ['text']}"
+}",TRUE,"{'task': 'complete the task', 'interactions': ['Mood', '+"" sign inside the ""Mood', 'text', 'Note']}"
 I want to see Giovani's stats.,"Based on the current screenshot, the user can complete the task in 1-5 steps as follows:
 
 1. Tap on the ""LA Galaxy"" button in the top left corner of the screen to navigate to the LA Galaxy team page.
@@ -96,12 +92,12 @@ I want to see Giovani's stats.,"Based on the current screenshot, the user can co
 
 Please note that the actual number of steps may vary depending on the user's device and the specific layout of the mobile app.","{
    ""task"":""see Giovani's stats"",
-   ""buttons"":[
+   ""interactions"":[
       ""LA Galaxy""
       ""Giovani dos Santos"",
       ""Top goal scorer""
    ]
-}",TRUE,"{'task': 'navigate to the LA Galaxy team page', 'buttons': ['LA Galaxy'], 'field': []}"
+}",TRUE,"{'task': 'navigate to the LA Galaxy team page', 'interactions': ['LA Galaxy']}"
 I want to unsave this location.,"Based on the image provided, the following sequence of taps would be required to unsave the location:
 1. Tap on the green star icon in the top right corner.
 2. Tap on the ""All"" button to view all saved locations.
@@ -109,12 +105,12 @@ I want to unsave this location.,"Based on the image provided, the following sequ
 4. Tap on the green star icon again to remove the location from the saved list.
 Please note that the exact number of steps may vary depending on the device's interface and the user's familiarity with the app.","{
    ""task"":""unsave this location"",
-   ""buttons"":[
+   ""interactions"":[
       ""green star"",
       ""All"",
       ""2 Casuarina Place, Aberfoyle Park""
    ]
-}",TRUE,"{'task': 'unsave the location', 'buttons': ['green star', 'All'], 'field': []}"
+}",TRUE,"{'task': 'unsave the location', 'interactions': ['green star', 'All']}"
 I want to search for Medical Tales Retold.,"To search for ""Medical Tales Retold"" using only the current screenshot, the user should follow these steps:
 1. Tap on the ""Comics"" button to access the comics section.
 2. Tap on the ""See all"" button to view all the comics available.
@@ -124,33 +120,31 @@ I want to search for Medical Tales Retold.,"To search for ""Medical Tales Retold
 
 Note: The image does not provide enough information to determine the exact number of taps required to complete the task.","{
    ""task"":""search for Medical Tales Retold"",
-   ""buttons"":[
+   ""interactions"":[
       ""Comics"",
       ""See all"",
       ""Home"",
-      ""Search""
-   ],
-   ""field"":[
+      ""Search"",
       ""text""
    ]
-}",TRUE,"{'task': 'search for', 'buttons': ['Comics', 'See all', 'Home', 'Search'], 'field': []}"
+}",TRUE,"{'task': 'search for', 'interactions': ['Comics', 'See all', 'Home', 'Search']}"
 I want to exit out of the signup menu.,"Based on the image, to exit out of the signup menu, the user should follow these steps:
 1. Tap on the ""Sign Up"" button located at the bottom of the screen.
 2. Tap on the ""Back"" button located at the top left corner of the screen.
 This sequence should allow the user to exit the signup menu.","{
    ""task"":""exit out of the sign up menu"",
-   ""buttons"":[
+   ""interactions"":[
       ""Sign Up"",
       ""Back""
    ]
-}",TRUE,"{'task': 'exit out of the signup menu', 'buttons': ['Sign Up', 'Back'], 'field': []}"
+}",TRUE,"{'task': 'exit out of the signup menu', 'interactions': ['Sign Up', 'Back']}"
 I want to watch the stream for the 2017 Men's Gymnastics: Big Ten Championship.,"To watch the stream for the 2017 Men's Gymnastics: Big Ten Championship, the user should follow these steps:
 1. Tap on the ""WATCH"" button located at the top right corner of the screen.","{
    ""task"":""watch the stream"",
-   ""buttons"":[
+   ""interactions"":[
       ""WATCH""
    ]
-}",TRUE,"{'task': 'watch the stream for the', 'buttons': ['WATCH'], 'field': []}"
+}",TRUE,"{'task': 'watch the stream for the', 'interactions': ['WATCH']}"
 I want to write a review.,"Based on the image, here is the shortest sequence of taps required to complete the task:
 
 1. Tap on the ""Write a review"" button.
@@ -158,26 +152,26 @@ I want to write a review.,"Based on the image, here is the shortest sequence of 
 
 Please note that these steps are based on the visible elements in the image and may not be the actual steps required to complete the task. The actual steps may vary depending on the specific mobile app being used.","{
    ""task"":""write a review"",
-   ""buttons"":[
+   ""interactions"":[
       ""Write a review"",
       ""Send""
    ]
-}",TRUE,"{'task': 'complete the task', 'buttons': ['Send', 'Write a review'], 'field': []}"
+}",TRUE,"{'task': 'complete the task', 'interactions': ['Send', 'Write a review']}"
 I want to view my statistics.,The user should tap on the 'Statistics' button to view their statistics.,"{
    ""task"":""view my statistics"",
-   ""buttons"":[
+   ""interactions"":[
       ""Statistics""
    ]
-}",TRUE,"{'task': 'view their statistics', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'view their statistics', 'interactions': []}"
 I want to see all the trending campaigns.,"Based on the image provided, here is the shortest sequence of taps to see all the trending campaigns:
 
 1. Tap on the 'Trending' button, which is located in the bottom navigation bar.
 2. Once the user is on the 'Trending' page, they can browse through the trending campaigns visible in the image.","{
    ""task"":""see all the trending campaigns"",
-   ""buttons"":[
+   ""interactions"":[
       ""Trending"",
    ]
-}",TRUE,"{'task': 'see all the trending campaigns', 'buttons': ['Trending'], 'field': []}"
+}",TRUE,"{'task': 'see all the trending campaigns', 'interactions': ['Trending']}"
 I want to add a new VPN.,"Based on the image, to add a new VPN, the user should perform the following steps:
 
 1. Tap on the ""+"" icon located at the bottom of the screen.
@@ -186,32 +180,32 @@ I want to add a new VPN.,"Based on the image, to add a new VPN, the user should 
 
 This sequence of taps should lead the user to the ""Add"" button, where they can proceed with adding a new VPN.","{
    ""task"":""add a new VPN"",
-   ""buttons"":[
+   ""interactions"":[
       ""+"",
       ""Profile"",
       ""+""
    ]
-}",TRUE,"{'task': 'add a new VPN', 'buttons': ['+', 'Profile'], 'field': []}"
+}",TRUE,"{'task': 'add a new VPN', 'interactions': ['+', 'Profile']}"
 I want to go back to the previous page.,"Based on the image, the user should tap on the 'Back' icon located in the top left corner of the screen to return to the previous page. This is the shortest sequence of taps required to complete the task.","{
    ""task"":""go back to the previous page"",
-   ""buttons"":[
+   ""interactions"":[
       ""Back""
    ]
-}",TRUE,"{'task': 'return to the previous page', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'return to the previous page', 'interactions': []}"
 I want to star this page.,"To complete the task of starring the page, the user should follow these steps:
 
 1. Tap on the 'Star' button located in the bottom left corner of the screen.","{
    ""task"":""star this page"",
-   ""buttons"":[
+   ""interactions"":[
       ""Star""
    ]
-}",TRUE,"{'task': 'complete the task of starring the page', 'buttons': ['Star'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of starring the page', 'interactions': ['Star']}"
 I want to confirm my email address.,"To confirm the email address, the user should tap on the 'Click here to confirm it' button, which is located at the bottom of the image.","{
    ""task"":""confirm my email address"",
-   ""buttons"":[
+   ""interactions"":[
       ""Click here to confirm it""
    ]
-}",TRUE,"{'task': 'confirm the email address', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'confirm the email address', 'interactions': []}"
 I want to change my time format to 12 hour.,"Based on the current screenshot, here's the shortest sequence of taps required to change the time format to 12 hour:
 
 1. Tap on the ""Time Format"" option.
@@ -219,28 +213,28 @@ I want to change my time format to 12 hour.,"Based on the current screenshot, he
 
 Please note that the above steps are based on the visible UI elements in the image and the assumption that the ""Time Format"" option and the ""12 Hour"" button are the only relevant elements for changing the time format.","{
    ""task"":""change my time format to 12 hour"",
-   ""buttons"":[
+   ""interactions"":[
       ""Time Format"",
       ""12 Hour""
    ]
-}",TRUE,"{'task': 'change the time format to', 'buttons': ['12 Hour', 'Time Format'], 'field': []}"
+}",TRUE,"{'task': 'change the time format to', 'interactions': ['12 Hour', 'Time Format']}"
 I want to contact the help center.,"Based on the image, to contact the help center, the user should follow these steps:
 1. Tap on the 'Help' button located at the top right corner of the screen.
 2. Tap on the 'Contact Us' button located at the bottom right corner of the screen.","{
    ""task"":""contact the help center"",
-   ""buttons"":[
+   ""interactions"":[
       ""Help"",
       ""Contact Us""
    ]
-}",TRUE,"{'task': 'contact the help center', 'buttons': ['Help', 'Contact Us'], 'field': []}"
+}",TRUE,"{'task': 'contact the help center', 'interactions': ['Help', 'Contact Us']}"
 I want to view the results based on what is entered so far.,"To view the results based on what is entered so far, the user should follow these steps:
 
 1. Tap on the ""View Results"" button at the bottom of the screen.","{
    ""task"":""view the results"",
-   ""buttons"":[
+   ""interactions"":[
       ""View Results""
    ]
-}",TRUE,"{'task': 'view the results based on what is entered so far', 'buttons': ['View Results'], 'field': []}"
+}",TRUE,"{'task': 'view the results based on what is entered so far', 'interactions': ['View Results']}"
 I want to login with my current credentials.,"To complete the task of logging in with current credentials, the user should follow these steps based on the visible UI elements:
 
 1. Tap on the ""Enter your SplashTop Account"" button to enter the email field.
@@ -249,73 +243,71 @@ I want to login with my current credentials.,"To complete the task of logging in
 4. Type in the password associated with the SplashTop account.
 5. Tap on the ""Log in"" button to log in with the entered credentials.","{
    ""task"":""login with my current credentials"",
-   ""buttons"":[
+   ""interactions"":[
       ""Enter your SplashTop Account"",
-      ""Log in""
-   ],
-   ""field"":[
-      ""password"",
-      ""email""
+      ""Log in"",
+      ""email"",
+      ""password""
    ]
-}",TRUE,"{'task': 'complete the task of logging in with current credentials', 'buttons': ['Enter your SplashTop Account', 'Log in'], 'field': ['email', 'Password']}"
+}",TRUE,"{'task': 'complete the task of logging in with current credentials', 'interactions': ['email', 'Enter your SplashTop Account', 'Log in', 'Password']}"
 I want to view the calendar.,The user should tap on the calendar icon in the bottom right corner of the screen.,"{
    ""task"":""view the calendar"",
-   ""buttons"":[
+   ""interactions"":[
       ""calendar icon""
    ]
-}",TRUE,"{'task': 'tap on the calendar icon in the bottom right corner of the screen', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'tap on the calendar icon in the bottom right corner of the screen', 'interactions': []}"
 I want to see all the standings.,"The user can complete this task in 2 steps as follows:
 1. Tap on the ""Standings"" button located in the ""Games"" tab.
 2. Tap on the ""Received Alerts"" button located in the ""Standings"" tab.
 
 Please note that the actual number of taps required to complete this task may vary depending on the user's interaction with the app.","{
    ""task"":""see all the standings"",
-   ""buttons"":[
+   ""interactions"":[
       ""Standings""
       ""Recieved Alerts""
    ]
-}",TRUE,"{'task': 'complete this task may vary depending on the user', 'buttons': ['Received Alerts', 'Standings'], 'field': []}"
+}",TRUE,"{'task': 'complete this task may vary depending on the user', 'interactions': ['Received Alerts', 'Standings']}"
 I want to view my knowledge base.,"To view the knowledge base in the mobile app shown in the image, the user should follow these steps:
 1. Tap the ""Help"" button located at the top of the screen.
 2. Tap the ""View Knowledge Base"" button.
 3. The user should now be able to view their knowledge base.","{
    ""task"":""view my knowledge base"",
-   ""buttons"":[
+   ""interactions"":[
       ""Help"",
       ""View Knowledge Base""
    ]
-}",TRUE,"{'task': 'view the knowledge base in the mobile app shown in the image', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'view the knowledge base in the mobile app shown in the image', 'interactions': []}"
 I want to check off the meeting I had for today.,"Based on the image provided, the user can complete the task in 1 step. To check off the meeting, the user can simply tap on the 'meeting' button. This will toggle the checkbox next to the meeting, indicating that the meeting has been checked off.","{
    ""task"":""check off the meeting"",
-   ""buttons"":[
+   ""interactions"":[
       ""Meeting""
    ]
-}",TRUE,"{'task': 'check off the meeting', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'check off the meeting', 'interactions': []}"
 I want to switch the theme of the app.,"To switch the theme of the app, the user should follow these steps:
 
 1. Tap on the 'Settings' button, which is located at the bottom of the screen.
 2. Tap on the 'Switch Theme' button, which is located in the settings menu.","{
    ""task"":""switch the theme"",
-   ""buttons"":[
+   ""interactions"":[
       ""Settings"",
       ""Switch Theme""
    ]
-}",TRUE,"{'task': 'switch the theme of the app', 'buttons': ['Settings', 'Switch Theme'], 'field': []}"
+}",TRUE,"{'task': 'switch the theme of the app', 'interactions': ['Settings', 'Switch Theme']}"
 I want to select the subject area of computer science.,"To select the subject area of computer science in the image, the user would need to follow these steps:
 
 1. Tap on the ""Computer Science"" option in the list of subject areas.","{
    ""task"":""select the subject area of computer science"",
-   ""buttons"":[
+   ""interactions"":[
       ""Computer Science""
    ]
-}",TRUE,"{'task': 'select the subject area of computer science in the image', 'buttons': ['Computer Science'], 'field': []}"
+}",TRUE,"{'task': 'select the subject area of computer science in the image', 'interactions': ['Computer Science']}"
 I want to buy ear spy pro.,"To buy EAR SPY Pro from the current screenshot, the user would need to follow these steps:
 1. Tap on the ""BUY"" button at the bottom right corner of the screen.","{
    ""task"":""buy ear spy pro"",
-   ""buttons"":[
+   ""interactions"":[
       ""BUY""
    ]
-}",TRUE,"{'task': 'buy EAR SPY Pro from the current screenshot', 'buttons': ['BUY'], 'field': []}"
+}",TRUE,"{'task': 'buy EAR SPY Pro from the current screenshot', 'interactions': ['BUY']}"
 I want to save the featured article to come back to it later.,"Based on the image provided, the user can complete the task in 2 steps:
 
 1. Tap the ""DOWNLOAD"" button to download the article.
@@ -323,22 +315,22 @@ I want to save the featured article to come back to it later.,"Based on the imag
 
 Please note that the actual sequence of taps may vary depending on the user's device and the specific implementation of the download feature.","{
    ""task"":""save the featured article"",
-   ""buttons"":[
+   ""interactions"":[
       ""DOWNLOAD""
    ]
-}",TRUE,"{'task': 'download the article', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'download the article', 'interactions': []}"
 I want to pin this recipe.,"To pin the recipe, the user should follow these steps:
 1. Tap on the 'Share' icon, which is located in the top right corner of the screen.
 2. Select the 'Save' option from the dropdown menu that appears after tapping the 'Share' icon.
 3. Confirm the action by tapping on the 'Save' button that appears on the screen after selecting the 'Save' option.
 4. The recipe will now be saved for later use.","{
    ""task"":""pin this recipe"",
-   ""buttons"":[
+   ""interactions"":[
       ""Share"",
       ""Save"",
       ""Save""
    ]
-}",TRUE,"{'task': 'pin the recipe', 'buttons': ['Share'], 'field': []}"
+}",TRUE,"{'task': 'pin the recipe', 'interactions': ['Share']}"
 I do not want to sync my phone call info to MightyText.,"To complete the task of 'I do not want to sync my phone call info to MightyText', the user should follow these steps:
 
 1. Tap on the 'Phone calls' option.
@@ -347,12 +339,12 @@ I do not want to sync my phone call info to MightyText.,"To complete the task of
 
 Note: The exact number of taps might vary depending on the device and the user's actions.","{
    ""task"":""do not want to sync my phone"",
-   ""buttons"":[
+   ""interactions"":[
       ""Phone Calls"",
       ""Sync phone call info to MightyText"",
       ""Turn off""
    ]
-}",TRUE,"{'task': 'complete the task of', 'buttons': ['Sync phone call info to MightyText', 'Turn off', 'Phone calls'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of', 'interactions': ['Sync phone call info to MightyText', 'Turn off', 'Phone calls']}"
 I want to add bananas to my shopping list.,"Based on the image, to add bananas to the shopping list, the user should perform the following steps:
 
 1. Tap the '+' button located at the top right corner of the screen.
@@ -361,30 +353,27 @@ I want to add bananas to my shopping list.,"Based on the image, to add bananas t
 4. Tap on the 'Add ingredients to shopping list and buy them when you are in grocery store.' button located below the search bar.
 5. Tap on the '+' button located at the bottom right corner of the screen to confirm the addition of bananas to the shopping list.","{
    ""task"":""add bananas to shopping cart"",
-   ""buttons"":[
+   ""interactions"":[
       ""+"",
       ""search"",
       ""Add ingredients to shopping list and buy them when you are in grocery store.""
-   ],
-   ""field"":[
-      ""text""
    ]
-}",TRUE,"{'task': 'add bananas to the shopping list', 'buttons': ['+', 'Add ingredients to shopping list and buy them when you are in grocery store.'], 'field': []}"
+}",TRUE,"{'task': 'add bananas to the shopping list', 'interactions': ['+', 'Add ingredients to shopping list and buy them when you are in grocery store.']}"
 I want to clear this entry.,"Based on the image provided, the user should follow these steps to clear the entry:
 
 1. Tap on the ""Clear"" button located at the bottom of the screen.","{
    ""task"":""clear this entry"",
-   ""buttons"":[
+   ""interactions"":[
       ""Clear""
    ]
-}",TRUE,"{'task': 'clear the entry', 'buttons': ['Clear'], 'field': []}"
+}",TRUE,"{'task': 'clear the entry', 'interactions': ['Clear']}"
 I want to view all of my playlists.,"To view all of your playlists, you can follow these steps:
 1. Tap on the ""Playlists"" option located at the top of the screen.","{
    ""task"":""view all of my playlists"",
-   ""buttons"":[
+   ""interactions"":[
       ""Playlists""
    ]
-}",TRUE,"{'task': 'view all of your playlists', 'buttons': ['Playlists'], 'field': []}"
+}",TRUE,"{'task': 'view all of your playlists', 'interactions': ['Playlists']}"
 I want to signup for winter scarves.,"Based on the current screenshot, the user can follow these steps to sign up for winter scarves:
 
 1. Tap on the ""WINTER"" option under the ""SCARVES"" category.
@@ -393,12 +382,12 @@ I want to signup for winter scarves.,"Based on the current screenshot, the user 
 
 Note: There might be additional steps or interactions required to complete the sign-up process. These steps are based on the information available in the current screenshot.","{
    ""task"":""signup for winter scarves"",
-   ""buttons"":[
+   ""interactions"":[
       ""Winter"",
       ""Sign up"",
       ""Sign up""
    ]
-}",TRUE,"{'task': 'sign up for winter scarves', 'buttons': ['SIGN UP', 'WINTER'], 'field': []}"
+}",TRUE,"{'task': 'sign up for winter scarves', 'interactions': ['SIGN UP', 'WINTER']}"
 I want to scan a barcode I have.,"To complete the task of scanning a barcode, the user should follow these steps:
 
 1. Tap on the ""Home"" button located at the bottom left corner of the screen.
@@ -406,12 +395,12 @@ I want to scan a barcode I have.,"To complete the task of scanning a barcode, th
 3. Tap on the camera icon located in the center of the scanner screen.
 4. Hold the barcode up to the camera and wait for the scanner to recognize the barcode.","{
    ""task"":""scan a barcode"",
-   ""buttons"":[
+   ""interactions"":[
       ""Home"",
       ""Scanner"",
       ""camera""
    ]
-}",TRUE,"{'task': 'complete the task of scanning a barcode', 'buttons': ['Scanner', 'Home', 'camera'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of scanning a barcode', 'interactions': ['Scanner', 'Home', 'camera']}"
 I want to see all of my recently added movies.,"To complete the task of viewing all of your recently added movies, follow these steps:
 
 1. Tap on the ""Movies"" tab at the bottom of the screen.
@@ -419,28 +408,28 @@ I want to see all of my recently added movies.,"To complete the task of viewing 
 
 Note: The ""Recently Added"" tab is not directly visible in the image, but it is a common feature in many movie and TV show applications. The user should look for a tab or menu option that is related to recently added content.","{
    ""task"":""see all of my recently added movies"",
-   ""buttons"":[
+   ""interactions"":[
       ""Movies"",
       ""Recently Added""
    ]
-}",TRUE,"{'task': 'complete the task of viewing all of your recently added movies', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'complete the task of viewing all of your recently added movies', 'interactions': []}"
 I want to move on to the next page.,"Based on the image, the following steps would allow the user to move on to the next page:
 
 1. Tap the ""NEXT"" button at the top right corner of the screen.","{
    ""task"":""move on to the next page"",
-   ""buttons"":[
+   ""interactions"":[
       ""NEXT""
    ]
-}",TRUE,"{'task': 'move on to the next page', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'move on to the next page', 'interactions': []}"
 I want to go back to the previous page.,"To go back to the previous page, the user should follow these steps:
 
 1. Tap on the 'Back' button located at the top left corner of the screen.
 2. This should take the user back to the previous page.","{
    ""task"":""go back to the previous page"",
-   ""buttons"":[
+   ""interactions"":[
       ""Back""
    ]
-}",TRUE,"{'task': 'go back to the previous page', 'buttons': ['Back'], 'field': []}"
+}",TRUE,"{'task': 'go back to the previous page', 'interactions': ['Back']}"
 I want to choose photo or video from my collection I have.,"Based on the image, it seems that the user is using the Fox 5 app, which is likely a news app. The screenshot shows a navigation bar at the top with various icons, including a live button, a home button, a cloud button, and a menu button. Below the navigation bar, there are three options: 'Choose Photo or Video', 'Take Photo or Video', and 'Compose E-mail'.
 
 To choose a photo or video from the user's collection, the user should tap on the 'Choose Photo or Video' option. The shortest sequence of taps required to complete this task would be:
@@ -449,25 +438,25 @@ To choose a photo or video from the user's collection, the user should tap on th
 
 Please note that the actual steps required to complete this task may vary depending on the specific app and user interface.","{
    ""task"":""choose photo or video"",
-   ""buttons"":[
+   ""interactions"":[
       ""Choose Photo or Video""
    ]
-}",TRUE,"{'task': 'or Video', 'buttons': ['Choose Photo or Video'], 'field': []}"
+}",TRUE,"{'task': 'or Video', 'interactions': ['Choose Photo or Video']}"
 I want to color the airplane.,"Based on the image, here is the shortest sequence of taps required to color the airplane:
 1. Tap on the airplane icon.","{
    ""task"":""color the airplane"",
-   ""buttons"":[
+   ""interactions"":[
       ""Airplane""
    ]
-}",TRUE,"{'task': 'color the airplane', 'buttons': ['airplane'], 'field': []}"
+}",TRUE,"{'task': 'color the airplane', 'interactions': ['airplane']}"
 I do not want to upgrade my plan.,"Based on the image provided, the user can follow these steps to cancel their upgrade:
 
 1. Tap the ""CANCEL"" button on the bottom right corner of the screen.","{
    ""task"":""do not upgrade my plan"",
-   ""buttons"":[
+   ""interactions"":[
       ""Cancel""
    ]
-}",TRUE,"{'task': 'cancel their upgrade', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'cancel their upgrade', 'interactions': []}"
 I want to see my messages in WhatsApp.,"The user can complete this task in 2 steps:
 
 1. Tap the 'Messaging' tab on the top of the screen.
@@ -475,27 +464,27 @@ I want to see my messages in WhatsApp.,"The user can complete this task in 2 ste
 
 Note: The 'Messaging' tab is the first tab in the 'WhatsApp Friends' menu, and it is directly accessible from the current screen.","{
    ""task"":""see my messages"",
-   ""buttons"":[
+   ""interactions"":[
       ""Messaging""
    ]
-}",TRUE,"{'task': 'view', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'view', 'interactions': []}"
 I want to get out of the settings page.,The user can simply tap the 'Back' button located at the top left corner of the screen to exit the settings page.,"{
    ""task"":""get out of the settings page"",
-   ""buttons"":[
+   ""interactions"":[
       ""Back""
    ]
-}",TRUE,"{'task': 'exit the settings page', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'exit the settings page', 'interactions': []}"
 I want to see my tithi.,"To complete the task of 'I want to see my tithi' using the current screenshot, follow these steps:
 
 1. Tap on the 'Festivals' button located in the menu bar at the bottom of the screen.
 2. Tap on the 'My Tithi' button within the 'Festivals' section.
 3. The user is now viewing the 'Tithi' screen, where they can see their tithi information.","{
    ""task"":""see my tithi"",
-   ""buttons"":[
+   ""interactions"":[
       ""Festivals"",
       ""My Tithi""
    ]
-}",TRUE,"{'task': 'complete the task of', 'buttons': ['Festivals', 'My Tithi'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of', 'interactions': ['Festivals', 'My Tithi']}"
 I want to take a personality test.,"The user's goal is to take a personality test. Based on the current screenshot, the following steps can be identified:
 
 1. Tap on the ""Scientific tests"" section.
@@ -503,26 +492,26 @@ I want to take a personality test.,"The user's goal is to take a personality tes
 
 Please note that this is a simplified sequence and does not account for any additional interactions or steps that may be required to complete the task. The user may need to confirm certain actions or navigate through multiple screens before reaching the desired test.","{
    ""task"":""take a personality test"",
-   ""buttons"":[
+   ""interactions"":[
       ""Scientific tests"",
       ""Personality""
    ]
-}",TRUE,"{'task': 'take a personality test', 'buttons': ['Personality'], 'field': []}"
+}",TRUE,"{'task': 'take a personality test', 'interactions': ['Personality']}"
 I want to view all the songs that I have.,"To view all the songs that the user has, they should follow these steps based on the image:
 
 1. Tap on the 'All Songs' option, which is located in the top left corner of the screen. This will take the user to the 'All Songs' section of the app.","{
    ""task"":""view all the songs"",
-   ""buttons"":[
+   ""interactions"":[
       ""All Songs""
    ]
-}",TRUE,"{'task': 'view all the songs that the user has', 'buttons': ['All Songs'], 'field': []}"
+}",TRUE,"{'task': 'view all the songs that the user has', 'interactions': ['All Songs']}"
 I want to share this app.,"Based on the image provided, here's the shortest sequence of taps required to share the app:
 1. Tap on the 'Share' icon (located in the bottom right corner of the screen).","{
    ""task"":""share app"",
-   ""buttons"":[
+   ""interactions"":[
       ""Share""
    ]
-}",TRUE,"{'task': 'share the app', 'buttons': ['Share'], 'field': []}"
+}",TRUE,"{'task': 'share the app', 'interactions': ['Share']}"
 "I want to reply to the ""Huh"" message in the chat. ","To reply to the ""Huh"" message in the chat, the user should follow these steps:
 
 1. Tap on the chat bubble containing the ""Huh"" message.
@@ -533,25 +522,23 @@ I want to share this app.,"Based on the image provided, here's the shortest sequ
 
 Please note that these steps are based on the visible UI elements in the image and may not cover all possible interactions with the app.","{
    ""task"":""reply to chat message"",
-   ""buttons"":[
+   ""interactions"":[
       ""chat bubble"",
       ""Reply"",
-      ""Send""
-   ]
-   ""field"":[
+      ""Send"",
       ""text""
    ]
-}",TRUE,"{'task': 'reply to the', 'buttons': ['Reply', 'Send'], 'field': ['text']}"
+}",TRUE,"{'task': 'reply to the', 'interactions': ['text', 'Reply', 'Send']}"
 I want to see my alarms.,"The user wants to see their alarms. To achieve this, follow these steps:
 
 1. Tap on the 'Alarm' button, which is located at the bottom of the screen.
 2. The user is now on the 'Alarm' page, which shows a list of alarms.
 3. The user can swipe through the list of alarms to view each one.","{
    ""task"":""see alarms"",
-   ""buttons"":[
+   ""interactions"":[
       ""Alarm""
    ]
-}",TRUE,"{'task': 'see their alarms', 'buttons': ['Alarm'], 'field': []}"
+}",TRUE,"{'task': 'see their alarms', 'interactions': ['Alarm']}"
 I want to see the Galmour settings.,"To help the user navigate to the 'Glammour' settings, we need to identify the necessary UI elements and their corresponding actions. In this screenshot, we see a list of hair styling options, each with a heart icon, and a 'Look Settings' button at the top.
 
 To complete the task, the user should follow these steps:
@@ -562,19 +549,19 @@ To complete the task, the user should follow these steps:
 
 This sequence of taps will help the user access the 'Glammour' settings page.","{
    ""task"":""view Galmour settings"",
-   ""buttons"":[
+   ""interactions"":[
       ""Look Settings"",
       ""Glammour""
    ]
-}",TRUE,"{'task': 'help the user navigate to the', 'buttons': ['Look Settings'], 'field': []}"
+}",TRUE,"{'task': 'help the user navigate to the', 'interactions': ['Look Settings']}"
 I want to see all of my downloads.,"Based on the image, the user would need to tap on the ""Downloads"" option under the ""Audio"" menu to view all downloaded content. The sequence of taps required to complete this task would be:
 
 1. Tap on the ""Downloads"" option under the ""Audio"" menu.","{
    ""task"":""change contact name to Jane Do"",
-   ""buttons"":[
+   ""interactions"":[
       ""Downloads""
    ]
-}",TRUE,"{'task': 'tap on the', 'buttons': ['Downloads'], 'field': []}"
+}",TRUE,"{'task': 'tap on the', 'interactions': ['Downloads']}"
 I want to refresh my page to see the updated statistics.,"To refresh the page and see the updated statistics, the user can follow these steps:
 
 1. Press the home button at the bottom of the screen to return to the home screen.
@@ -583,20 +570,20 @@ I want to refresh my page to see the updated statistics.,"To refresh the page an
 
 Please note that the actual steps to refresh the page may vary depending on the device and app being used.","{
    ""task"":""refresh page"",
-   ""buttons"":[
+   ""interactions"":[
       ""home"",
       ""back"",
       ""refresh""
    ]
-}",TRUE,"{'task': 'refresh the page and see the updated statistics', 'buttons': ['back', 'home', 'refresh'], 'field': []}"
+}",TRUE,"{'task': 'refresh the page and see the updated statistics', 'interactions': ['back', 'home', 'refresh']}"
 I want to create an account.,"To create an account in the app shown in the image, the user should follow these steps:
 
 1. Tap on the 'Create Account' button.","{
    ""task"":""create an account"",
-   ""buttons"":[
+   ""interactions"":[
       ""Create Account""
    ]
-}",TRUE,"{'task': 'create an account in the app shown in the image', 'buttons': ['Create Account'], 'field': []}"
+}",TRUE,"{'task': 'create an account in the app shown in the image', 'interactions': ['Create Account']}"
 I want to share the sneakers with a friend.,"To share the sneakers with a friend, you need to perform the following steps:
 1. Tap the ""Share"" icon (the icon with an arrow pointing upwards and to the right).
 2. Tap the ""Friend"" icon (the icon with a person and a plus sign).
@@ -604,11 +591,11 @@ I want to share the sneakers with a friend.,"To share the sneakers with a friend
 4. Type the phone number of your friend.
 5. Tap the ""Send"" button.","{
    ""task"":""share sneakers with a friend"",
-   ""buttons"":[
+   ""interactions"":[
       ""Share"",
       ""Friend"",
       ""SMS"",
       ""Send""
    ]
-}",TRUE,"{'task': 'share the sneakers with a friend', 'buttons': [], 'field': []}"
+}",TRUE,"{'task': 'share the sneakers with a friend', 'interactions': []}"
 ,,,57,
