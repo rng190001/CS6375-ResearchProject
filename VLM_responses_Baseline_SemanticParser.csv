@@ -48,7 +48,7 @@ This sequence of taps should help the user achieve their goal of maintaining the
       ""Lose 2 pounds per week"",
       ""Maintain current weight""
    ]
-}",TRUE,"{'task': 'complete the task of', 'buttons': ['Lose 2 pounds per week', 'Mainain current weight', 'Lose 1 pound per week'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of', 'interactions': ['Mainain current weight', 'Lose 2 pounds per week', 'Lose 1 pound per week']}"
 Can you save my location?,"To save the user's location, the user should follow these steps:
 
 1. Tap on the ""Find My Car"" button.
@@ -60,7 +60,7 @@ Please note that these instructions are based on the current screenshot and may 
       ""Find My Car"",
       ""Save Location""
    ]
-}",TRUE,"{'task': 'save the user', 'buttons': ['Find My Car', 'Save Location'], 'field': []}"
+}",TRUE,"{'task': 'save the user', 'interactions': ['Save Location', 'Find My Car']}"
 I want to view image 3 in a larger view.,"To view image 3 in a larger view, the user should follow these steps:
 1. Tap on the image 3 icon in the bottom left corner of the screen to open the larger image.","{
    ""task"":""view image 3 in a larger view"",
@@ -83,7 +83,7 @@ Please note that these steps are based on the visible elements in the image and 
       ""Note"",
       ""text""
    ]
-}",TRUE,"{'task': 'complete the task', 'buttons': ['+"" sign inside the ""Mood', 'Note', 'Mood'], 'field': ['text']}"
+}",TRUE,"{'task': 'complete the task', 'interactions': ['Mood', '+"" sign inside the ""Mood', 'text', 'Note']}"
 I want to see Giovani's stats.,"Based on the current screenshot, the user can complete the task in 1-5 steps as follows:
 
 1. Tap on the ""LA Galaxy"" button in the top left corner of the screen to navigate to the LA Galaxy team page.
@@ -110,7 +110,7 @@ Please note that the exact number of steps may vary depending on the device's in
       ""All"",
       ""2 Casuarina Place, Aberfoyle Park""
    ]
-}",TRUE,"{'task': 'unsave the location', 'buttons': ['All', 'green star'], 'field': []}"
+}",TRUE,"{'task': 'unsave the location', 'interactions': ['green star', 'All']}"
 I want to search for Medical Tales Retold.,"To search for ""Medical Tales Retold"" using only the current screenshot, the user should follow these steps:
 1. Tap on the ""Comics"" button to access the comics section.
 2. Tap on the ""See all"" button to view all the comics available.
@@ -156,7 +156,7 @@ Please note that these steps are based on the visible elements in the image and 
       ""Write a review"",
       ""Send""
    ]
-}",TRUE,"{'task': 'complete the task', 'buttons': ['Write a review', 'Send'], 'field': []}"
+}",TRUE,"{'task': 'complete the task', 'interactions': ['Send', 'Write a review']}"
 I want to view my statistics.,The user should tap on the 'Statistics' button to view their statistics.,"{
    ""task"":""view my statistics"",
    ""interactions"":[
@@ -185,7 +185,7 @@ This sequence of taps should lead the user to the ""Add"" button, where they can
       ""Profile"",
       ""+""
    ]
-}",TRUE,"{'task': 'add a new VPN', 'buttons': ['Profile', '+'], 'field': []}"
+}",TRUE,"{'task': 'add a new VPN', 'interactions': ['+', 'Profile']}"
 I want to go back to the previous page.,"Based on the image, the user should tap on the 'Back' icon located in the top left corner of the screen to return to the previous page. This is the shortest sequence of taps required to complete the task.","{
    ""task"":""go back to the previous page"",
    ""interactions"":[
@@ -217,7 +217,7 @@ Please note that the above steps are based on the visible UI elements in the ima
       ""Time Format"",
       ""12 Hour""
    ]
-}",TRUE,"{'task': 'change the time format to', 'buttons': ['Time Format', '12 Hour'], 'field': []}"
+}",TRUE,"{'task': 'change the time format to', 'interactions': ['12 Hour', 'Time Format']}"
 I want to contact the help center.,"Based on the image, to contact the help center, the user should follow these steps:
 1. Tap on the 'Help' button located at the top right corner of the screen.
 2. Tap on the 'Contact Us' button located at the bottom right corner of the screen.","{
@@ -226,7 +226,7 @@ I want to contact the help center.,"Based on the image, to contact the help cent
       ""Help"",
       ""Contact Us""
    ]
-}",TRUE,"{'task': 'contact the help center', 'buttons': ['Contact Us', 'Help'], 'field': []}"
+}",TRUE,"{'task': 'contact the help center', 'interactions': ['Help', 'Contact Us']}"
 I want to view the results based on what is entered so far.,"To view the results based on what is entered so far, the user should follow these steps:
 
 1. Tap on the ""View Results"" button at the bottom of the screen.","{
@@ -249,7 +249,7 @@ I want to login with my current credentials.,"To complete the task of logging in
       ""email"",
       ""password""
    ]
-}",TRUE,"{'task': 'complete the task of logging in with current credentials', 'buttons': ['Log in', 'Enter your SplashTop Account'], 'field': ['email', 'Password']}"
+}",TRUE,"{'task': 'complete the task of logging in with current credentials', 'interactions': ['email', 'Enter your SplashTop Account', 'Log in', 'Password']}"
 I want to view the calendar.,The user should tap on the calendar icon in the bottom right corner of the screen.,"{
    ""task"":""view the calendar"",
    ""interactions"":[
@@ -266,7 +266,7 @@ Please note that the actual number of taps required to complete this task may va
       ""Standings""
       ""Recieved Alerts""
    ]
-}",TRUE,"{'task': 'complete this task may vary depending on the user', 'buttons': ['Standings', 'Received Alerts'], 'field': []}"
+}",TRUE,"{'task': 'complete this task may vary depending on the user', 'interactions': ['Received Alerts', 'Standings']}"
 I want to view my knowledge base.,"To view the knowledge base in the mobile app shown in the image, the user should follow these steps:
 1. Tap the ""Help"" button located at the top of the screen.
 2. Tap the ""View Knowledge Base"" button.
@@ -292,7 +292,7 @@ I want to switch the theme of the app.,"To switch the theme of the app, the user
       ""Settings"",
       ""Switch Theme""
    ]
-}",TRUE,"{'task': 'switch the theme of the app', 'buttons': ['Switch Theme', 'Settings'], 'field': []}"
+}",TRUE,"{'task': 'switch the theme of the app', 'interactions': ['Settings', 'Switch Theme']}"
 I want to select the subject area of computer science.,"To select the subject area of computer science in the image, the user would need to follow these steps:
 
 1. Tap on the ""Computer Science"" option in the list of subject areas.","{
@@ -344,7 +344,7 @@ Note: The exact number of taps might vary depending on the device and the user's
       ""Sync phone call info to MightyText"",
       ""Turn off""
    ]
-}",TRUE,"{'task': 'complete the task of', 'buttons': ['Phone calls', 'Sync phone call info to MightyText', 'Turn off'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of', 'interactions': ['Sync phone call info to MightyText', 'Turn off', 'Phone calls']}"
 I want to add bananas to my shopping list.,"Based on the image, to add bananas to the shopping list, the user should perform the following steps:
 
 1. Tap the '+' button located at the top right corner of the screen.
@@ -358,7 +358,7 @@ I want to add bananas to my shopping list.,"Based on the image, to add bananas t
       ""search"",
       ""Add ingredients to shopping list and buy them when you are in grocery store.""
    ]
-}",TRUE,"{'task': 'add bananas to the shopping list', 'buttons': ['Add ingredients to shopping list and buy them when you are in grocery store.', '+'], 'field': []}"
+}",TRUE,"{'task': 'add bananas to the shopping list', 'interactions': ['+', 'Add ingredients to shopping list and buy them when you are in grocery store.']}"
 I want to clear this entry.,"Based on the image provided, the user should follow these steps to clear the entry:
 
 1. Tap on the ""Clear"" button located at the bottom of the screen.","{
@@ -387,7 +387,7 @@ Note: There might be additional steps or interactions required to complete the s
       ""Sign up"",
       ""Sign up""
    ]
-}",TRUE,"{'task': 'sign up for winter scarves', 'buttons': ['WINTER', 'SIGN UP'], 'field': []}"
+}",TRUE,"{'task': 'sign up for winter scarves', 'interactions': ['SIGN UP', 'WINTER']}"
 I want to scan a barcode I have.,"To complete the task of scanning a barcode, the user should follow these steps:
 
 1. Tap on the ""Home"" button located at the bottom left corner of the screen.
@@ -484,7 +484,7 @@ I want to see my tithi.,"To complete the task of 'I want to see my tithi' using 
       ""Festivals"",
       ""My Tithi""
    ]
-}",TRUE,"{'task': 'complete the task of', 'buttons': ['My Tithi', 'Festivals'], 'field': []}"
+}",TRUE,"{'task': 'complete the task of', 'interactions': ['Festivals', 'My Tithi']}"
 I want to take a personality test.,"The user's goal is to take a personality test. Based on the current screenshot, the following steps can be identified:
 
 1. Tap on the ""Scientific tests"" section.
