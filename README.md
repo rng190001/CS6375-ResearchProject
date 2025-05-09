@@ -30,7 +30,7 @@ Visual Language Model (LLaVA) focusing on testing different parsing techniques f
 - Seq2Seq Parser
     - Model Used: BART
     - Challenge: Poor performance on converting VLM responses to desired JSON objects
-    - Expanded Training Dataset so that we could fine-tune the BART model
+    - Expanded training dataset leading to a fine-tuned BART model
     - Optimizer: AdamW
     - Hyperparameters: 
         - Learning Rate: 2e-5
