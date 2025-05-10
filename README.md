@@ -1,5 +1,6 @@
 # CS6375-ResearchProject
 Visual Language Model (LLaVA) focusing on testing different parsing techniques from generated responses. This study investigates three different parsing techniques: rule-based parsing, dependency parsing and lastly sequence to sequence parsing to determine their efficiency in converting LLM generated responses into executable UI actions 
+- [Presentation Link](https://docs.google.com/presentation/d/1iAu11ptLQ4vyyziwtZJigNRMGVatmdaTIP0uTYkb7c0/edit?usp=sharing)
 
 ## ![image](https://github.com/user-attachments/assets/94aa549a-378f-406b-8059-01f83bcd3e25) Datasets
 
